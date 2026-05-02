@@ -1,0 +1,1352 @@
+year,region,country,attack_type,group_name,killed,wounded,total_casualties,target_type,weapon_type,success,latitude,longitude
+1990,South Asia,India,Assassination,Eastern Resistance,1,2,3,Military,Melee,1,20.8138,76.1402
+1990,Middle East,Afghanistan,Hostage Taking,Red Crescent Brigade,1,0,1,Police,Vehicle,1,25.5189,37.2807
+1990,Central Asia,Tajikistan,Hostage Taking,Crimson Path,0,0,0,Government,Vehicle,1,46.7694,74.194
+1990,Americas,Peru,Armed Assault,Red Crescent Brigade,0,3,3,Business,Firearms,1,24.8913,-70.9081
+1990,Central Asia,Kyrgyzstan,Assassination,Shadow Front,0,2,2,Police,Vehicle,1,39.4862,68.4479
+1990,Africa,Sudan,Hostage Taking,Eastern Resistance,0,2,2,Government,Vehicle,1,17.3794,25.8371
+1990,Southeast Asia,Indonesia,Armed Assault,Iron Vanguard,0,3,3,Military,Explosives,0,19.7369,98.7096
+1990,Central Asia,Tajikistan,Bombing/Explosion,Storm Seekers,23,24,47,Business,Firearms,1,46.2257,73.4487
+1990,South Asia,India,Armed Assault,Eastern Resistance,0,25,25,Religious,Chemical,1,31.9307,73.9078
+1990,Middle East,Afghanistan,Bombing/Explosion,Unknown Cell,37,10,47,Civilians,Unknown,0,25.5859,46.8332
+1990,Central Asia,Tajikistan,Bombing/Explosion,Storm Seekers,7,121,128,Government,Explosives,1,45.0771,72.1978
+1990,Americas,Colombia,Armed Assault,Silent Thunder,7,9,16,Religious,Explosives,1,24.0179,-81.8771
+1990,Central Asia,Kyrgyzstan,Bombing/Explosion,Silent Thunder,32,9,41,Civilians,Explosives,1,40.8295,76.9722
+1990,Americas,Honduras,Armed Assault,Black Sun Collective,4,3,7,Civilians,Vehicle,1,9.8016,-70.7281
+1990,Middle East,Syria,Bombing/Explosion,Iron Vanguard,28,22,50,Government,Vehicle,1,33.7833,54.9679
+1990,Europe,Kosovo,Hostage Taking,Iron Vanguard,1,0,1,Government,Melee,0,47.2422,23.9761
+1990,Americas,Mexico,Armed Assault,Crimson Path,1,8,9,Police,Vehicle,1,16.2611,-79.4232
+1990,Central Asia,Tajikistan,Assassination,Eastern Resistance,2,2,4,Religious,Vehicle,0,38.9295,72.7001
+1990,South Asia,Sri Lanka,Unarmed Assault,Black Sun Collective,0,9,9,Civilians,Chemical,1,21.6416,74.9769
+1990,Central Asia,Tajikistan,Armed Assault,Black Sun Collective,0,37,37,Government,Firearms,1,41.0041,68.7298
+1990,Americas,Colombia,Assassination,Eastern Resistance,0,3,3,Religious,Explosives,1,15.213,-79.6745
+1990,Southeast Asia,Thailand,Armed Assault,Storm Seekers,0,28,28,Police,Chemical,1,13.5586,98.4181
+1990,South Asia,Sri Lanka,Facility Attack,Frontier Guard,3,1,4,Religious,Explosives,1,30.7956,75.1435
+1991,Central Asia,Kyrgyzstan,Armed Assault,Northern Covenant,3,2,5,Military,Melee,1,47.1811,77.1501
+1991,Middle East,Lebanon,Hijacking,Shadow Front,0,4,4,Police,Melee,0,25.3823,51.4969
+1991,Middle East,Iraq,Bombing/Explosion,Silent Thunder,10,41,51,Business,Vehicle,1,29.2662,55.0738
+1991,Southeast Asia,Indonesia,Armed Assault,Black Sun Collective,8,13,21,Government,Chemical,1,16.4547,115.7088
+1991,Middle East,Syria,Bombing/Explosion,Free Sons Movement,2,7,9,Civilians,Firearms,1,24.2065,64.1451
+1991,South Asia,Bangladesh,Assassination,Grey Wolf Alliance,3,10,13,Military,Unknown,1,29.8943,88.5965
+1991,Middle East,Afghanistan,Hostage Taking,Red Crescent Brigade,0,0,0,Religious,Firearms,1,24.2836,40.8171
+1991,Southeast Asia,Indonesia,Hijacking,Desert Storm Faction,0,6,6,Business,Vehicle,1,12.6418,102.2789
+1991,Central Asia,Tajikistan,Bombing/Explosion,Black Sun Collective,5,14,19,Police,Explosives,1,46.4763,71.4768
+1991,Southeast Asia,Thailand,Bombing/Explosion,Storm Seekers,39,0,39,Police,Vehicle,1,15.0477,113.3449
+1991,South Asia,India,Armed Assault,Storm Seekers,0,11,11,Police,Vehicle,1,22.3846,74.4284
+1991,Europe,Ukraine,Armed Assault,Desert Storm Faction,19,3,22,Religious,Unknown,1,48.3702,15.5202
+1991,South Asia,Bangladesh,Armed Assault,Unknown Cell,5,7,12,Business,Firearms,1,23.2791,84.4394
+1991,Central Asia,Kyrgyzstan,Assassination,Black Sun Collective,1,2,3,Religious,Firearms,0,45.23,70.8556
+1991,Southeast Asia,Thailand,Facility Attack,Storm Seekers,3,4,7,Police,Firearms,1,9.8018,117.4776
+1991,South Asia,Sri Lanka,Bombing/Explosion,Eastern Resistance,11,24,35,Government,Chemical,1,28.6305,90.6333
+1991,South Asia,Sri Lanka,Assassination,Red Crescent Brigade,1,5,6,Business,Explosives,1,14.781,84.2463
+1991,Middle East,Iraq,Armed Assault,Desert Storm Faction,0,21,21,Government,Explosives,1,25.5689,42.4988
+1991,Central Asia,Tajikistan,Hostage Taking,Grey Wolf Alliance,1,0,1,Business,Chemical,1,39.5118,75.352
+1991,Southeast Asia,Philippines,Hostage Taking,Iron Vanguard,0,0,0,Business,Vehicle,0,21.365,117.6729
+1991,Americas,Colombia,Facility Attack,Northern Covenant,1,3,4,Government,Explosives,1,8.3409,-87.0485
+1991,South Asia,Nepal,Hostage Taking,Liberation Front Alpha,0,0,0,Government,Chemical,1,30.6328,71.7031
+1991,Central Asia,Kazakhstan,Bombing/Explosion,Northern Covenant,30,9,39,Police,Firearms,1,42.1575,76.5355
+1991,Africa,Libya,Armed Assault,Storm Seekers,13,9,22,Religious,Explosives,1,12.88,23.2803
+1991,South Asia,Sri Lanka,Hostage Taking,Black Sun Collective,2,1,3,Police,Chemical,1,13.9327,87.2424
+1992,Central Asia,Kyrgyzstan,Facility Attack,Silent Thunder,0,8,8,Business,Melee,0,42.4258,76.5523
+1992,Middle East,Iraq,Armed Assault,Crimson Path,0,7,7,Civilians,Vehicle,0,26.1362,37.7826
+1992,Southeast Asia,Myanmar,Unarmed Assault,Unknown Cell,7,0,7,Business,Explosives,0,21.6608,118.9721
+1992,Africa,Ethiopia,Armed Assault,Liberation Front Alpha,3,15,18,Government,Unknown,1,16.8387,33.0896
+1992,Middle East,Afghanistan,Unarmed Assault,Northern Covenant,6,5,11,Business,Chemical,0,33.1038,48.9395
+1992,Americas,Honduras,Assassination,Crimson Path,0,3,3,Military,Unknown,1,21.2366,-73.7811
+1992,Africa,Somalia,Bombing/Explosion,Grey Wolf Alliance,6,34,40,Business,Melee,1,12.972,38.156
+1992,Africa,Mali,Bombing/Explosion,Shadow Front,55,34,89,Civilians,Chemical,1,3.5177,30.3419
+1992,Central Asia,Kyrgyzstan,Assassination,Grey Wolf Alliance,3,0,3,Civilians,Firearms,0,41.0394,71.3412
+1992,Southeast Asia,Philippines,Facility Attack,Storm Seekers,6,13,19,Civilians,Melee,1,11.026,96.432
+1992,Europe,Bosnia,Assassination,Frontier Guard,0,6,6,Business,Explosives,1,51.7954,35.1347
+1992,Southeast Asia,Myanmar,Armed Assault,Red Crescent Brigade,2,13,15,Religious,Melee,1,18.8563,112.183
+1992,Europe,Turkey,Hostage Taking,Liberation Front Alpha,1,1,2,Police,Explosives,1,46.9884,35.5711
+1992,Middle East,Syria,Hostage Taking,Eastern Resistance,0,1,1,Military,Vehicle,1,24.8085,61.7668
+1992,Europe,Ukraine,Armed Assault,Free Sons Movement,6,27,33,Government,Chemical,1,46.7076,34.4706
+1992,Americas,El Salvador,Assassination,Black Sun Collective,1,1,2,Military,Vehicle,0,23.9564,-71.7071
+1992,South Asia,Sri Lanka,Armed Assault,Iron Vanguard,11,6,17,Religious,Vehicle,1,26.3176,88.7185
+1992,South Asia,Bangladesh,Armed Assault,Iron Vanguard,8,12,20,Business,Unknown,1,22.5347,90.1207
+1992,Central Asia,Tajikistan,Bombing/Explosion,Liberation Front Alpha,39,24,63,Government,Melee,1,38.4028,67.2996
+1992,Africa,Libya,Bombing/Explosion,Shadow Front,12,4,16,Government,Explosives,1,-1.4465,28.868
+1992,Africa,Mali,Bombing/Explosion,Free Sons Movement,2,4,6,Civilians,Unknown,1,-1.9418,21.1568
+1992,Europe,Kosovo,Assassination,Free Sons Movement,0,3,3,Religious,Chemical,1,44.0539,24.4326
+1992,Central Asia,Kyrgyzstan,Bombing/Explosion,Eastern Resistance,24,20,44,Military,Firearms,1,42.6094,71.7489
+1992,Central Asia,Kyrgyzstan,Armed Assault,Black Sun Collective,14,56,70,Government,Chemical,1,42.0963,68.4923
+1992,Americas,Colombia,Unarmed Assault,Silent Thunder,5,5,10,Civilians,Vehicle,0,17.9183,-68.3512
+1993,Southeast Asia,Thailand,Assassination,Grey Wolf Alliance,1,1,2,Business,Explosives,0,6.4476,123.655
+1993,Central Asia,Kazakhstan,Unarmed Assault,Iron Vanguard,0,2,2,Religious,Chemical,1,42.7584,78.453
+1993,Americas,Mexico,Hijacking,Unknown Cell,2,2,4,Business,Melee,0,9.9057,-72.3596
+1993,Europe,Ukraine,Facility Attack,Unknown Cell,1,4,5,Civilians,Chemical,1,47.0667,27.2868
+1993,Africa,Ethiopia,Bombing/Explosion,Iron Vanguard,30,1,31,Civilians,Explosives,1,2.9346,18.2297
+1993,Americas,Mexico,Bombing/Explosion,Black Sun Collective,8,51,59,Religious,Firearms,1,6.7926,-82.3301
+1993,South Asia,India,Assassination,Iron Vanguard,1,0,1,Government,Melee,1,26.5458,75.1526
+1993,South Asia,Bangladesh,Unarmed Assault,Northern Covenant,2,8,10,Military,Melee,1,29.5213,70.9032
+1993,Central Asia,Kyrgyzstan,Assassination,Desert Storm Faction,1,0,1,Civilians,Vehicle,1,43.0442,79.2404
+1993,Africa,Mozambique,Assassination,Unknown Cell,0,1,1,Civilians,Explosives,1,5.1873,17.4797
+1993,Africa,Somalia,Bombing/Explosion,Eastern Resistance,15,38,53,Civilians,Chemical,1,-1.8607,28.1839
+1993,Central Asia,Kyrgyzstan,Armed Assault,Grey Wolf Alliance,0,26,26,Police,Firearms,1,47.8531,76.7304
+1993,Americas,El Salvador,Bombing/Explosion,Red Crescent Brigade,0,12,12,Civilians,Vehicle,0,17.4146,-73.6735
+1993,Middle East,Yemen,Bombing/Explosion,Storm Seekers,0,13,13,Military,Melee,0,28.942,46.1911
+1993,Americas,Honduras,Bombing/Explosion,Black Sun Collective,13,19,32,Religious,Firearms,1,16.2616,-82.484
+1993,Middle East,Syria,Hostage Taking,Crimson Path,0,1,1,Government,Melee,0,26.7411,50.6398
+1993,Southeast Asia,Thailand,Assassination,Liberation Front Alpha,0,4,4,Military,Unknown,1,9.1808,124.4907
+1993,Europe,Turkey,Armed Assault,Shadow Front,23,4,27,Civilians,Unknown,1,51.0671,30.2197
+1993,Southeast Asia,Myanmar,Armed Assault,Crimson Path,5,5,10,Religious,Unknown,1,17.9619,111.1439
+1993,Southeast Asia,Philippines,Armed Assault,Black Sun Collective,0,5,5,Business,Unknown,1,7.0981,124.1612
+1993,Africa,Ethiopia,Bombing/Explosion,Northern Covenant,28,24,52,Police,Unknown,0,-1.8809,21.8554
+1993,Middle East,Syria,Hostage Taking,Free Sons Movement,0,2,2,Business,Melee,0,33.2196,41.5538
+1993,Southeast Asia,Thailand,Facility Attack,Desert Storm Faction,3,13,16,Police,Firearms,1,13.3947,105.89
+1993,Southeast Asia,Myanmar,Bombing/Explosion,Eastern Resistance,15,22,37,Military,Unknown,1,19.7886,112.0731
+1993,Americas,Mexico,Assassination,Frontier Guard,0,0,0,Military,Chemical,0,17.0595,-85.6118
+1993,Southeast Asia,Philippines,Bombing/Explosion,Desert Storm Faction,64,7,71,Military,Chemical,1,19.9771,116.867
+1993,Central Asia,Kyrgyzstan,Bombing/Explosion,Unknown Cell,68,20,88,Police,Unknown,1,44.1446,75.2102
+1994,Europe,Ukraine,Facility Attack,Storm Seekers,0,0,0,Business,Melee,1,51.9413,21.8509
+1994,Europe,Kosovo,Armed Assault,Black Sun Collective,1,31,32,Business,Explosives,0,42.6946,21.9483
+1994,Europe,Bosnia,Bombing/Explosion,Silent Thunder,9,13,22,Military,Firearms,1,50.5612,35.1918
+1994,Southeast Asia,Indonesia,Unarmed Assault,Storm Seekers,1,0,1,Civilians,Firearms,1,10.5968,96.8853
+1994,Middle East,Yemen,Armed Assault,Desert Storm Faction,5,1,6,Military,Explosives,1,32.1419,45.6948
+1994,Middle East,Yemen,Bombing/Explosion,Northern Covenant,32,12,44,Civilians,Melee,0,34.6812,51.0706
+1994,Central Asia,Kyrgyzstan,Assassination,Shadow Front,0,1,1,Civilians,Explosives,1,43.7893,66.283
+1994,Europe,Bosnia,Unarmed Assault,Eastern Resistance,1,23,24,Civilians,Unknown,1,41.5304,37.9779
+1994,Africa,Ethiopia,Bombing/Explosion,Black Sun Collective,14,2,16,Civilians,Unknown,1,-3.6949,37.1977
+1994,Americas,El Salvador,Bombing/Explosion,Eastern Resistance,16,4,20,Police,Chemical,1,17.4802,-78.6647
+1994,Americas,Honduras,Bombing/Explosion,Liberation Front Alpha,0,95,95,Business,Unknown,0,20.6586,-78.6481
+1994,South Asia,India,Bombing/Explosion,Unknown Cell,26,105,131,Business,Chemical,1,23.415,88.1787
+1994,South Asia,Nepal,Armed Assault,Crimson Path,5,9,14,Civilians,Vehicle,1,19.5602,73.8357
+1994,Middle East,Syria,Armed Assault,Frontier Guard,1,3,4,Business,Vehicle,1,32.4722,46.3746
+1994,Central Asia,Kazakhstan,Bombing/Explosion,Grey Wolf Alliance,32,11,43,Business,Melee,1,40.9106,79.5541
+1994,Southeast Asia,Myanmar,Bombing/Explosion,Liberation Front Alpha,31,33,64,Military,Chemical,1,14.5106,96.6382
+1994,South Asia,Sri Lanka,Facility Attack,Eastern Resistance,0,5,5,Business,Melee,1,20.3689,84.6042
+1994,Southeast Asia,Thailand,Facility Attack,Red Crescent Brigade,5,2,7,Civilians,Chemical,0,15.4738,107.5609
+1995,Central Asia,Kazakhstan,Armed Assault,Northern Covenant,14,9,23,Military,Explosives,1,44.9322,71.9981
+1995,Europe,Bosnia,Facility Attack,Liberation Front Alpha,0,6,6,Civilians,Vehicle,1,42.2109,39.747
+1995,Middle East,Afghanistan,Bombing/Explosion,Unknown Cell,146,4,150,Government,Explosives,1,29.7253,54.3087
+1995,Middle East,Iraq,Bombing/Explosion,Liberation Front Alpha,30,6,36,Business,Melee,1,35.51,56.8463
+1995,South Asia,Sri Lanka,Bombing/Explosion,Storm Seekers,27,35,62,Military,Firearms,1,31.6769,68.5039
+1995,Europe,Ukraine,Armed Assault,Storm Seekers,2,4,6,Military,Firearms,1,42.8818,35.2372
+1995,Americas,Honduras,Unarmed Assault,Crimson Path,4,2,6,Military,Unknown,1,7.8886,-66.8961
+1995,South Asia,Bangladesh,Assassination,Shadow Front,2,0,2,Business,Melee,0,33.4015,73.8692
+1995,Americas,Mexico,Facility Attack,Crimson Path,9,9,18,Government,Melee,0,11.5536,-88.6685
+1995,Central Asia,Kazakhstan,Facility Attack,Eastern Resistance,11,1,12,Religious,Chemical,0,40.0924,66.2211
+1995,Americas,Colombia,Bombing/Explosion,Eastern Resistance,16,24,40,Business,Vehicle,1,17.9014,-77.271
+1995,Europe,Russia,Armed Assault,Eastern Resistance,3,7,10,Government,Melee,1,45.7996,38.8938
+1995,Americas,El Salvador,Assassination,Eastern Resistance,0,4,4,Military,Chemical,0,9.144,-67.6279
+1995,Europe,Russia,Armed Assault,Grey Wolf Alliance,6,0,6,Civilians,Vehicle,1,51.226,24.3527
+1995,South Asia,India,Bombing/Explosion,Frontier Guard,20,16,36,Government,Chemical,1,23.183,79.1661
+1995,Europe,Kosovo,Armed Assault,Shadow Front,0,41,41,Military,Vehicle,1,45.9705,21.8255
+1995,Europe,Russia,Bombing/Explosion,Grey Wolf Alliance,53,19,72,Business,Explosives,1,40.989,36.0651
+1995,Southeast Asia,Philippines,Facility Attack,Northern Covenant,0,10,10,Government,Firearms,1,6.2129,96.1484
+1995,South Asia,Nepal,Bombing/Explosion,Silent Thunder,12,9,21,Business,Unknown,1,25.772,74.5871
+1995,South Asia,Nepal,Bombing/Explosion,Black Sun Collective,12,19,31,Business,Melee,1,17.0124,91.9242
+1995,Central Asia,Kyrgyzstan,Bombing/Explosion,Black Sun Collective,14,15,29,Military,Unknown,1,45.6116,67.2392
+1995,South Asia,Sri Lanka,Armed Assault,Free Sons Movement,7,30,37,Police,Chemical,1,22.368,79.2497
+1995,Africa,Somalia,Armed Assault,Eastern Resistance,3,15,18,Police,Firearms,1,18.5482,23.366
+1995,Central Asia,Kyrgyzstan,Bombing/Explosion,Shadow Front,40,16,56,Police,Firearms,1,39.2835,79.1503
+1995,Central Asia,Kyrgyzstan,Facility Attack,Crimson Path,2,6,8,Religious,Melee,1,42.2572,76.2894
+1996,Africa,DRC,Assassination,Liberation Front Alpha,1,4,5,Business,Chemical,0,18.0536,14.9181
+1996,Southeast Asia,Indonesia,Hijacking,Eastern Resistance,0,8,8,Civilians,Firearms,0,6.0831,106.593
+1996,Africa,Mozambique,Assassination,Shadow Front,0,0,0,Religious,Melee,1,-2.3922,27.693
+1996,Americas,El Salvador,Bombing/Explosion,Northern Covenant,18,9,27,Government,Firearms,1,24.2599,-82.9046
+1996,Southeast Asia,Philippines,Armed Assault,Black Sun Collective,2,4,6,Police,Melee,1,7.921,120.7912
+1996,South Asia,India,Bombing/Explosion,Free Sons Movement,5,0,5,Military,Vehicle,1,9.7878,90.9223
+1996,South Asia,Sri Lanka,Armed Assault,Desert Storm Faction,28,2,30,Business,Unknown,1,12.1283,81.8022
+1996,South Asia,Bangladesh,Bombing/Explosion,Frontier Guard,23,38,61,Military,Explosives,0,19.589,87.79
+1996,Americas,Peru,Unarmed Assault,Desert Storm Faction,7,0,7,Religious,Vehicle,1,16.5227,-71.5677
+1996,Europe,Bosnia,Hostage Taking,Free Sons Movement,2,1,3,Military,Unknown,0,44.6931,35.5857
+1996,Europe,Russia,Bombing/Explosion,Red Crescent Brigade,18,27,45,Religious,Chemical,1,45.4939,37.7708
+1996,Americas,Colombia,Armed Assault,Storm Seekers,13,4,17,Business,Explosives,1,22.4108,-83.1556
+1996,Africa,Somalia,Assassination,Crimson Path,2,2,4,Business,Unknown,0,17.7184,23.1609
+1996,Middle East,Afghanistan,Bombing/Explosion,Red Crescent Brigade,28,125,153,Government,Explosives,1,34.1336,47.8928
+1996,South Asia,India,Armed Assault,Liberation Front Alpha,1,62,63,Religious,Explosives,1,25.5662,79.0857
+1996,Europe,Russia,Armed Assault,Storm Seekers,0,0,0,Religious,Explosives,1,48.5092,18.412
+1996,Europe,Kosovo,Armed Assault,Red Crescent Brigade,0,5,5,Police,Explosives,1,42.9075,38.7505
+1996,Central Asia,Tajikistan,Facility Attack,Iron Vanguard,5,0,5,Business,Firearms,0,44.0699,67.6585
+1996,Southeast Asia,Indonesia,Bombing/Explosion,Liberation Front Alpha,0,74,74,Military,Unknown,1,16.5155,99.6049
+1996,South Asia,India,Unarmed Assault,Crimson Path,5,7,12,Business,Chemical,1,26.1153,88.076
+1996,Southeast Asia,Philippines,Armed Assault,Black Sun Collective,17,14,31,Military,Melee,1,15.1695,96.4599
+1996,South Asia,Nepal,Unarmed Assault,Liberation Front Alpha,0,2,2,Military,Firearms,1,18.9638,91.743
+1996,Southeast Asia,Philippines,Bombing/Explosion,Red Crescent Brigade,23,8,31,Civilians,Explosives,1,19.1177,100.0365
+1996,Europe,Turkey,Bombing/Explosion,Unknown Cell,20,0,20,Business,Melee,1,47.5214,30.6168
+1996,Europe,Kosovo,Bombing/Explosion,Storm Seekers,6,21,27,Government,Firearms,1,43.8804,15.3749
+1996,Middle East,Yemen,Bombing/Explosion,Liberation Front Alpha,17,23,40,Civilians,Firearms,1,34.5961,54.8484
+1997,South Asia,Bangladesh,Armed Assault,Crimson Path,9,0,9,Business,Chemical,1,33.7523,85.1007
+1997,South Asia,Nepal,Unarmed Assault,Unknown Cell,0,9,9,Religious,Chemical,1,24.4027,77.3256
+1997,South Asia,Nepal,Bombing/Explosion,Liberation Front Alpha,20,3,23,Civilians,Unknown,1,30.1404,79.5711
+1997,Americas,Honduras,Armed Assault,Shadow Front,14,3,17,Military,Chemical,1,9.6485,-75.3133
+1997,Middle East,Pakistan,Hostage Taking,Frontier Guard,0,0,0,Civilians,Explosives,1,33.5929,57.9601
+1997,Middle East,Syria,Armed Assault,Northern Covenant,9,13,22,Religious,Melee,1,28.8847,54.6191
+1997,Americas,El Salvador,Hostage Taking,Shadow Front,0,2,2,Business,Melee,1,11.3508,-70.3257
+1997,Central Asia,Tajikistan,Assassination,Liberation Front Alpha,1,1,2,Military,Melee,0,40.2901,75.9931
+1997,South Asia,India,Unarmed Assault,Northern Covenant,0,1,1,Business,Unknown,0,28.8377,84.7107
+1997,Central Asia,Tajikistan,Armed Assault,Iron Vanguard,0,10,10,Military,Firearms,1,38.0604,78.048
+1997,Middle East,Lebanon,Hijacking,Crimson Path,1,1,2,Military,Firearms,1,26.2578,51.9166
+1997,South Asia,India,Armed Assault,Red Crescent Brigade,1,0,1,Business,Vehicle,1,26.7635,73.8782
+1997,South Asia,Nepal,Bombing/Explosion,Eastern Resistance,4,14,18,Civilians,Vehicle,0,13.2364,88.6982
+1997,Africa,Ethiopia,Armed Assault,Crimson Path,11,2,13,Military,Vehicle,1,7.6323,33.5177
+1997,Central Asia,Tajikistan,Bombing/Explosion,Desert Storm Faction,22,54,76,Business,Vehicle,1,38.8323,78.5969
+1997,Americas,Mexico,Assassination,Black Sun Collective,1,5,6,Business,Firearms,1,14.273,-78.6599
+1997,Americas,El Salvador,Bombing/Explosion,Shadow Front,14,27,41,Civilians,Firearms,1,8.9143,-67.0967
+1997,Central Asia,Kyrgyzstan,Hostage Taking,Silent Thunder,0,0,0,Government,Melee,1,47.2569,79.1043
+1997,Europe,Kosovo,Armed Assault,Iron Vanguard,2,4,6,Police,Chemical,1,50.62,39.8118
+1998,South Asia,Sri Lanka,Hostage Taking,Silent Thunder,0,1,1,Police,Melee,0,27.541,76.3659
+1998,Southeast Asia,Thailand,Assassination,Eastern Resistance,0,7,7,Civilians,Unknown,1,12.2087,102.4038
+1998,Central Asia,Tajikistan,Assassination,Frontier Guard,2,1,3,Police,Unknown,1,44.6568,67.2183
+1998,Southeast Asia,Myanmar,Bombing/Explosion,Iron Vanguard,3,57,60,Civilians,Chemical,1,16.2643,99.8428
+1998,Southeast Asia,Indonesia,Armed Assault,Unknown Cell,13,15,28,Police,Chemical,0,6.3659,122.2985
+1998,South Asia,Bangladesh,Bombing/Explosion,Frontier Guard,5,13,18,Government,Melee,1,21.8632,89.2796
+1998,Southeast Asia,Indonesia,Hostage Taking,Crimson Path,0,0,0,Government,Unknown,0,6.8577,112.1784
+1998,Central Asia,Kazakhstan,Bombing/Explosion,Red Crescent Brigade,27,33,60,Police,Firearms,0,41.9797,69.6215
+1998,Middle East,Iraq,Bombing/Explosion,Black Sun Collective,16,61,77,Military,Unknown,1,29.419,44.3619
+1998,South Asia,Nepal,Bombing/Explosion,Eastern Resistance,15,16,31,Business,Firearms,1,12.7316,90.7636
+1998,Central Asia,Kazakhstan,Bombing/Explosion,Unknown Cell,7,76,83,Police,Explosives,1,46.0918,67.8783
+1998,Europe,Turkey,Bombing/Explosion,Desert Storm Faction,1,72,73,Civilians,Unknown,1,43.5175,24.4432
+1998,Africa,Nigeria,Assassination,Desert Storm Faction,3,0,3,Civilians,Vehicle,1,14.0133,10.3042
+1998,Southeast Asia,Philippines,Bombing/Explosion,Crimson Path,14,54,68,Government,Chemical,1,11.3863,110.6022
+1998,Europe,Kosovo,Hostage Taking,Liberation Front Alpha,0,3,3,Military,Chemical,1,44.4494,37.2538
+1998,Africa,Ethiopia,Armed Assault,Shadow Front,22,6,28,Police,Explosives,0,16.8269,35.8006
+1998,Central Asia,Kyrgyzstan,Armed Assault,Silent Thunder,3,33,36,Military,Firearms,1,39.2289,72.9594
+1998,Africa,Mozambique,Assassination,Shadow Front,2,0,2,Religious,Unknown,0,7.8729,31.1273
+1998,Central Asia,Tajikistan,Bombing/Explosion,Storm Seekers,0,22,22,Police,Melee,0,47.696,76.0372
+1998,South Asia,Bangladesh,Armed Assault,Unknown Cell,21,22,43,Police,Chemical,1,17.0567,90.538
+1998,Southeast Asia,Philippines,Hostage Taking,Unknown Cell,1,0,1,Business,Melee,1,17.103,121.0958
+1998,Central Asia,Kyrgyzstan,Armed Assault,Grey Wolf Alliance,2,25,27,Police,Firearms,1,38.8709,77.4853
+1998,South Asia,Bangladesh,Unarmed Assault,Crimson Path,0,1,1,Religious,Vehicle,1,14.2634,73.0794
+1998,Southeast Asia,Philippines,Bombing/Explosion,Black Sun Collective,2,30,32,Government,Unknown,1,20.7931,104.795
+1998,South Asia,Nepal,Assassination,Silent Thunder,5,0,5,Police,Unknown,1,11.5297,80.829
+1998,Middle East,Lebanon,Armed Assault,Storm Seekers,5,12,17,Government,Firearms,0,33.9624,53.4197
+1998,Europe,Kosovo,Assassination,Desert Storm Faction,15,0,15,Civilians,Chemical,0,45.2435,20.8342
+1999,Middle East,Iraq,Bombing/Explosion,Frontier Guard,12,13,25,Government,Unknown,1,26.446,63.3182
+1999,South Asia,Nepal,Unarmed Assault,Northern Covenant,6,2,8,Police,Chemical,0,16.0808,82.1614
+1999,Europe,Bosnia,Hostage Taking,Frontier Guard,0,1,1,Military,Unknown,0,41.5157,31.5936
+1999,Middle East,Yemen,Bombing/Explosion,Northern Covenant,26,0,26,Police,Vehicle,1,34.6099,44.6079
+1999,Southeast Asia,Indonesia,Bombing/Explosion,Silent Thunder,35,5,40,Civilians,Melee,1,16.311,119.0388
+1999,Americas,Peru,Armed Assault,Eastern Resistance,6,6,12,Religious,Unknown,1,24.937,-72.3369
+1999,Central Asia,Kazakhstan,Armed Assault,Red Crescent Brigade,10,5,15,Religious,Unknown,0,38.5881,77.1532
+1999,South Asia,Sri Lanka,Hostage Taking,Silent Thunder,2,1,3,Police,Explosives,0,28.177,88.5627
+1999,Africa,Sudan,Hijacking,Liberation Front Alpha,1,2,3,Police,Chemical,1,5.5609,25.1495
+1999,Europe,Ukraine,Armed Assault,Grey Wolf Alliance,11,0,11,Police,Melee,1,51.0768,32.5277
+1999,Middle East,Syria,Armed Assault,Desert Storm Faction,4,32,36,Police,Chemical,0,24.7036,63.1027
+1999,Southeast Asia,Myanmar,Assassination,Northern Covenant,0,4,4,Religious,Vehicle,0,9.9484,99.3447
+1999,South Asia,India,Armed Assault,Black Sun Collective,29,0,29,Police,Chemical,1,28.423,88.6023
+1999,Southeast Asia,Myanmar,Unarmed Assault,Iron Vanguard,3,2,5,Business,Explosives,1,13.0559,123.3519
+1999,Southeast Asia,Thailand,Assassination,Northern Covenant,1,0,1,Police,Firearms,0,11.8679,96.0198
+1999,Europe,Bosnia,Assassination,Crimson Path,0,3,3,Religious,Firearms,0,44.5045,32.2949
+1999,Southeast Asia,Philippines,Hostage Taking,Shadow Front,1,2,3,Civilians,Unknown,1,15.7497,108.3535
+1999,Middle East,Iraq,Bombing/Explosion,Frontier Guard,14,2,16,Business,Unknown,1,30.6267,36.6678
+1999,Europe,Bosnia,Assassination,Storm Seekers,2,0,2,Religious,Explosives,0,42.1732,27.1048
+1999,Europe,Bosnia,Assassination,Grey Wolf Alliance,4,5,9,Military,Explosives,1,48.5652,36.5553
+1999,Europe,Ukraine,Armed Assault,Free Sons Movement,9,35,44,Business,Chemical,1,46.3611,16.5983
+1999,Americas,Colombia,Hostage Taking,Frontier Guard,0,1,1,Religious,Firearms,0,22.952,-85.4834
+2000,Middle East,Pakistan,Armed Assault,Red Crescent Brigade,3,28,31,Civilians,Melee,1,25.6746,41.9807
+2000,Americas,Peru,Facility Attack,Grey Wolf Alliance,1,9,10,Military,Explosives,1,7.4943,-82.5356
+2000,Europe,Ukraine,Bombing/Explosion,Storm Seekers,37,1,38,Business,Explosives,0,46.2333,34.57
+2000,Europe,Russia,Assassination,Frontier Guard,1,4,5,Business,Unknown,1,50.9294,39.9199
+2000,Americas,Mexico,Assassination,Desert Storm Faction,1,0,1,Military,Unknown,0,9.742,-85.2982
+2000,South Asia,Sri Lanka,Assassination,Desert Storm Faction,0,0,0,Government,Melee,1,24.1801,69.7846
+2000,Europe,Russia,Armed Assault,Red Crescent Brigade,15,10,25,Business,Explosives,0,48.1183,38.505
+2000,South Asia,India,Assassination,Liberation Front Alpha,0,1,1,Business,Melee,0,26.1169,72.6231
+2000,Southeast Asia,Myanmar,Armed Assault,Frontier Guard,3,2,5,Military,Firearms,1,18.3923,106.3683
+2000,Middle East,Afghanistan,Bombing/Explosion,Iron Vanguard,10,10,20,Government,Explosives,1,29.2882,45.5514
+2000,Africa,Libya,Bombing/Explosion,Northern Covenant,7,36,43,Police,Firearms,1,-2.5513,41.3435
+2000,Middle East,Iraq,Bombing/Explosion,Iron Vanguard,4,27,31,Business,Unknown,0,31.6548,59.3971
+2000,Africa,Libya,Assassination,Crimson Path,1,2,3,Police,Chemical,1,-3.8009,20.1759
+2000,South Asia,Nepal,Facility Attack,Free Sons Movement,5,5,10,Police,Unknown,0,21.8237,82.2708
+2000,Europe,Turkey,Bombing/Explosion,Red Crescent Brigade,38,30,68,Police,Explosives,1,48.5587,31.4391
+2000,Americas,Peru,Bombing/Explosion,Storm Seekers,14,47,61,Business,Unknown,1,12.403,-70.5618
+2000,Europe,Kosovo,Bombing/Explosion,Black Sun Collective,16,9,25,Business,Melee,0,46.0268,21.8956
+2000,Southeast Asia,Myanmar,Armed Assault,Iron Vanguard,1,1,2,Religious,Explosives,0,11.9108,104.3821
+2000,Middle East,Iraq,Hostage Taking,Grey Wolf Alliance,2,1,3,Police,Explosives,1,24.7463,57.5589
+2000,Central Asia,Kazakhstan,Hijacking,Eastern Resistance,2,1,3,Business,Vehicle,0,47.3244,67.0464
+2001,Southeast Asia,Philippines,Armed Assault,Black Sun Collective,5,0,5,Religious,Chemical,1,19.1338,95.2187
+2001,Americas,Peru,Bombing/Explosion,Grey Wolf Alliance,20,23,43,Religious,Unknown,1,23.4092,-65.0208
+2001,Americas,Colombia,Assassination,Northern Covenant,9,0,9,Military,Firearms,0,22.6386,-76.9121
+2001,Middle East,Afghanistan,Facility Attack,Red Crescent Brigade,3,7,10,Government,Chemical,1,24.6618,50.3697
+2001,Middle East,Afghanistan,Unarmed Assault,Desert Storm Faction,3,3,6,Government,Firearms,0,35.0601,60.8764
+2001,Europe,Bosnia,Bombing/Explosion,Desert Storm Faction,27,6,33,Religious,Explosives,1,46.8261,20.4366
+2001,Americas,Colombia,Unarmed Assault,Eastern Resistance,3,4,7,Government,Chemical,0,6.1499,-89.8527
+2001,Africa,DRC,Bombing/Explosion,Iron Vanguard,40,50,90,Police,Melee,0,-0.3461,21.345
+2001,Europe,Russia,Bombing/Explosion,Shadow Front,6,8,14,Military,Chemical,0,44.9286,37.8277
+2001,Central Asia,Kyrgyzstan,Bombing/Explosion,Red Crescent Brigade,71,20,91,Business,Vehicle,1,40.9928,71.4251
+2001,Central Asia,Tajikistan,Bombing/Explosion,Silent Thunder,42,4,46,Police,Vehicle,1,42.3936,67.0981
+2001,Middle East,Afghanistan,Unarmed Assault,Black Sun Collective,3,7,10,Police,Unknown,1,26.4644,37.1674
+2001,Southeast Asia,Thailand,Unarmed Assault,Desert Storm Faction,8,1,9,Civilians,Firearms,1,21.1224,123.791
+2001,Europe,Kosovo,Assassination,Unknown Cell,2,2,4,Police,Unknown,0,43.8987,34.1098
+2001,Americas,El Salvador,Bombing/Explosion,Shadow Front,1,31,32,Religious,Explosives,1,7.5225,-81.397
+2001,South Asia,India,Assassination,Eastern Resistance,2,8,10,Government,Melee,1,23.5243,68.1927
+2001,Africa,Mozambique,Bombing/Explosion,Northern Covenant,12,7,19,Government,Vehicle,1,-1.1876,26.3597
+2001,Central Asia,Kazakhstan,Facility Attack,Silent Thunder,0,4,4,Civilians,Unknown,1,46.2061,67.9762
+2001,Southeast Asia,Myanmar,Bombing/Explosion,Black Sun Collective,6,38,44,Civilians,Chemical,1,7.5283,98.6138
+2001,Africa,Mali,Unarmed Assault,Black Sun Collective,1,13,14,Police,Vehicle,1,-0.0089,37.6592
+2001,Americas,Peru,Hostage Taking,Black Sun Collective,3,1,4,Religious,Firearms,1,13.5215,-88.4663
+2001,Middle East,Afghanistan,Bombing/Explosion,Liberation Front Alpha,47,38,85,Civilians,Melee,1,28.5633,48.1242
+2001,South Asia,India,Bombing/Explosion,Unknown Cell,14,5,19,Business,Unknown,1,13.5114,79.3294
+2001,Middle East,Yemen,Bombing/Explosion,Shadow Front,11,22,33,Religious,Vehicle,1,27.9566,38.8097
+2001,Americas,Mexico,Armed Assault,Frontier Guard,15,7,22,Government,Unknown,0,19.8586,-75.2772
+2001,South Asia,Nepal,Bombing/Explosion,Frontier Guard,41,30,71,Civilians,Vehicle,1,10.7655,83.1094
+2001,Middle East,Pakistan,Hijacking,Iron Vanguard,0,7,7,Civilians,Unknown,0,26.5081,48.9273
+2001,Americas,Honduras,Armed Assault,Red Crescent Brigade,5,5,10,Civilians,Unknown,1,20.2198,-76.6611
+2001,South Asia,Sri Lanka,Armed Assault,Unknown Cell,8,1,9,Business,Unknown,1,30.804,88.4825
+2001,Africa,DRC,Armed Assault,Grey Wolf Alliance,8,8,16,Business,Unknown,1,5.9031,25.4503
+2001,Central Asia,Kazakhstan,Bombing/Explosion,Frontier Guard,9,82,91,Civilians,Melee,1,39.2893,65.6817
+2001,Central Asia,Kyrgyzstan,Bombing/Explosion,Iron Vanguard,13,6,19,Military,Vehicle,1,43.3247,72.7023
+2001,Europe,Turkey,Armed Assault,Red Crescent Brigade,4,30,34,Business,Vehicle,1,43.2579,19.6017
+2001,South Asia,India,Facility Attack,Desert Storm Faction,0,1,1,Military,Chemical,1,26.4016,80.6018
+2001,Africa,Libya,Assassination,Storm Seekers,0,0,0,Military,Firearms,1,8.3391,19.339
+2001,Africa,Sudan,Bombing/Explosion,Grey Wolf Alliance,31,35,66,Civilians,Explosives,1,1.2252,36.3491
+2001,Middle East,Lebanon,Armed Assault,Unknown Cell,3,14,17,Business,Chemical,0,28.2193,63.4464
+2001,Africa,Sudan,Armed Assault,Shadow Front,4,36,40,Government,Chemical,1,19.6315,30.0306
+2001,South Asia,Nepal,Bombing/Explosion,Crimson Path,61,13,74,Business,Explosives,1,33.4478,86.6765
+2001,Middle East,Lebanon,Hostage Taking,Frontier Guard,1,2,3,Business,Vehicle,0,27.3455,54.1607
+2001,South Asia,Bangladesh,Bombing/Explosion,Black Sun Collective,6,7,13,Military,Melee,1,24.3748,88.5973
+2001,Europe,Russia,Hostage Taking,Red Crescent Brigade,0,2,2,Police,Vehicle,1,50.826,17.3423
+2001,South Asia,Sri Lanka,Bombing/Explosion,Desert Storm Faction,58,38,96,Military,Vehicle,0,12.6906,74.7691
+2001,South Asia,Bangladesh,Assassination,Unknown Cell,3,2,5,Religious,Firearms,1,9.8733,73.8861
+2001,Europe,Ukraine,Hostage Taking,Black Sun Collective,1,2,3,Police,Firearms,1,49.6959,30.0823
+2002,Middle East,Iraq,Hostage Taking,Desert Storm Faction,0,1,1,Military,Unknown,0,25.7183,58.3334
+2002,Southeast Asia,Philippines,Facility Attack,Liberation Front Alpha,8,0,8,Religious,Explosives,0,6.8078,117.0839
+2002,Middle East,Syria,Bombing/Explosion,Eastern Resistance,29,5,34,Military,Chemical,0,34.601,44.9142
+2002,South Asia,India,Armed Assault,Iron Vanguard,5,19,24,Business,Melee,1,11.2,87.7982
+2002,Africa,Somalia,Armed Assault,Black Sun Collective,2,3,5,Police,Vehicle,1,17.8042,10.768
+2002,South Asia,Nepal,Assassination,Silent Thunder,1,6,7,Civilians,Firearms,0,25.7949,84.4824
+2002,Europe,Russia,Hijacking,Frontier Guard,0,3,3,Government,Firearms,1,51.4702,23.9327
+2002,Middle East,Afghanistan,Unarmed Assault,Grey Wolf Alliance,0,20,20,Government,Explosives,0,31.8586,41.164
+2002,Americas,Mexico,Assassination,Desert Storm Faction,6,2,8,Government,Firearms,0,18.7432,-74.381
+2002,Middle East,Afghanistan,Unarmed Assault,Crimson Path,2,2,4,Civilians,Unknown,1,27.4502,62.3026
+2002,Central Asia,Kazakhstan,Facility Attack,Eastern Resistance,5,0,5,Religious,Firearms,0,39.4659,67.2167
+2002,Central Asia,Tajikistan,Facility Attack,Iron Vanguard,0,0,0,Government,Explosives,1,47.5959,69.1771
+2002,South Asia,Sri Lanka,Hostage Taking,Black Sun Collective,0,0,0,Business,Melee,1,19.0196,84.6421
+2002,Central Asia,Kyrgyzstan,Armed Assault,Grey Wolf Alliance,7,58,65,Business,Unknown,0,41.8319,73.2401
+2002,Europe,Turkey,Armed Assault,Frontier Guard,3,10,13,Religious,Firearms,1,46.9716,25.546
+2002,Central Asia,Kyrgyzstan,Bombing/Explosion,Shadow Front,9,50,59,Government,Explosives,1,38.0287,79.9086
+2002,Americas,El Salvador,Unarmed Assault,Free Sons Movement,6,9,15,Military,Explosives,1,11.987,-68.7812
+2002,Africa,Mozambique,Bombing/Explosion,Free Sons Movement,65,0,65,Military,Chemical,0,17.8238,17.7599
+2002,Middle East,Lebanon,Bombing/Explosion,Black Sun Collective,32,37,69,Government,Unknown,1,28.907,36.7641
+2002,Middle East,Lebanon,Bombing/Explosion,Shadow Front,4,84,88,Military,Chemical,1,34.8867,61.2438
+2002,Africa,Sudan,Bombing/Explosion,Crimson Path,2,30,32,Military,Explosives,1,15.7767,23.3278
+2002,Europe,Russia,Hostage Taking,Eastern Resistance,0,0,0,Religious,Unknown,0,45.6422,33.0639
+2002,Southeast Asia,Philippines,Bombing/Explosion,Red Crescent Brigade,22,22,44,Business,Firearms,1,15.9217,113.1252
+2002,South Asia,India,Armed Assault,Free Sons Movement,4,4,8,Government,Vehicle,1,30.7754,81.2997
+2002,Americas,Honduras,Armed Assault,Grey Wolf Alliance,14,1,15,Police,Firearms,1,8.136,-65.6719
+2002,South Asia,Sri Lanka,Armed Assault,Grey Wolf Alliance,4,28,32,Business,Explosives,1,12.776,85.9039
+2002,Central Asia,Kazakhstan,Facility Attack,Black Sun Collective,9,3,12,Military,Vehicle,1,44.527,71.0765
+2002,Middle East,Afghanistan,Assassination,Crimson Path,2,5,7,Government,Firearms,1,25.3572,46.5183
+2003,South Asia,Nepal,Bombing/Explosion,Desert Storm Faction,39,21,60,Military,Explosives,1,23.5249,86.1565
+2003,Americas,Mexico,Assassination,Shadow Front,0,0,0,Business,Explosives,1,6.7008,-75.7469
+2003,Central Asia,Tajikistan,Bombing/Explosion,Crimson Path,6,24,30,Government,Melee,1,41.086,79.7081
+2003,Europe,Turkey,Bombing/Explosion,Iron Vanguard,0,27,27,Government,Vehicle,1,51.6862,32.5664
+2003,Europe,Turkey,Bombing/Explosion,Free Sons Movement,8,9,17,Civilians,Firearms,1,49.5528,26.9238
+2003,Africa,Sudan,Bombing/Explosion,Northern Covenant,38,16,54,Military,Vehicle,1,10.6488,40.4902
+2003,Central Asia,Kyrgyzstan,Assassination,Silent Thunder,0,5,5,Business,Unknown,1,47.6367,72.7445
+2003,Southeast Asia,Thailand,Armed Assault,Black Sun Collective,0,15,15,Civilians,Firearms,1,11.1254,120.6786
+2003,Southeast Asia,Indonesia,Bombing/Explosion,Eastern Resistance,26,11,37,Civilians,Chemical,1,21.2863,112.007
+2003,Central Asia,Kazakhstan,Bombing/Explosion,Iron Vanguard,31,19,50,Police,Melee,1,47.6895,76.7217
+2003,Middle East,Yemen,Armed Assault,Iron Vanguard,4,0,4,Civilians,Melee,1,27.6415,46.5365
+2003,South Asia,Bangladesh,Bombing/Explosion,Unknown Cell,6,72,78,Military,Vehicle,0,27.8418,78.6091
+2003,Middle East,Pakistan,Armed Assault,Unknown Cell,3,9,12,Religious,Melee,0,29.2122,60.853
+2003,South Asia,Bangladesh,Armed Assault,Grey Wolf Alliance,6,10,16,Police,Chemical,0,17.7158,84.3728
+2003,Africa,Nigeria,Assassination,Grey Wolf Alliance,0,1,1,Civilians,Unknown,1,14.7648,32.3918
+2003,South Asia,India,Bombing/Explosion,Free Sons Movement,23,6,29,Police,Firearms,1,30.1996,73.3532
+2003,Southeast Asia,Philippines,Armed Assault,Iron Vanguard,1,0,1,Military,Vehicle,1,20.3022,108.9456
+2003,Southeast Asia,Philippines,Unarmed Assault,Liberation Front Alpha,1,9,10,Government,Vehicle,0,8.391,104.8616
+2003,Americas,El Salvador,Bombing/Explosion,Red Crescent Brigade,0,5,5,Police,Unknown,1,10.5675,-89.0429
+2003,South Asia,Sri Lanka,Armed Assault,Crimson Path,2,15,17,Government,Explosives,0,28.1293,69.4976
+2003,Central Asia,Tajikistan,Hijacking,Storm Seekers,1,0,1,Police,Firearms,1,46.6802,79.2897
+2003,Africa,Libya,Assassination,Free Sons Movement,2,2,4,Religious,Explosives,1,1.8476,12.6147
+2003,Europe,Kosovo,Armed Assault,Unknown Cell,18,20,38,Police,Unknown,0,42.2089,16.3436
+2003,Africa,Libya,Bombing/Explosion,Crimson Path,5,8,13,Military,Melee,0,7.0406,27.1362
+2003,Southeast Asia,Indonesia,Armed Assault,Unknown Cell,1,4,5,Business,Unknown,1,18.9913,111.8273
+2003,South Asia,India,Hostage Taking,Silent Thunder,7,0,7,Religious,Chemical,1,16.417,91.6728
+2003,Central Asia,Kyrgyzstan,Hostage Taking,Free Sons Movement,0,2,2,Government,Explosives,1,42.5866,67.2123
+2003,Middle East,Lebanon,Armed Assault,Free Sons Movement,6,1,7,Military,Chemical,1,36.8471,63.3564
+2004,Southeast Asia,Philippines,Bombing/Explosion,Red Crescent Brigade,8,14,22,Business,Unknown,0,12.143,111.3826
+2004,Europe,Russia,Armed Assault,Free Sons Movement,11,0,11,Government,Firearms,0,46.922,15.3593
+2004,Middle East,Afghanistan,Unarmed Assault,Eastern Resistance,0,3,3,Police,Chemical,0,25.6217,50.4748
+2004,Europe,Bosnia,Armed Assault,Unknown Cell,2,11,13,Military,Chemical,1,51.6888,23.3957
+2004,Europe,Kosovo,Armed Assault,Free Sons Movement,5,5,10,Religious,Chemical,1,46.5132,24.5391
+2004,Southeast Asia,Indonesia,Assassination,Iron Vanguard,5,3,8,Civilians,Unknown,0,20.7273,120.7099
+2004,Middle East,Lebanon,Bombing/Explosion,Grey Wolf Alliance,2,22,24,Civilians,Vehicle,1,33.7493,54.0909
+2004,Southeast Asia,Indonesia,Armed Assault,Crimson Path,12,14,26,Police,Explosives,1,19.479,101.3561
+2004,Americas,El Salvador,Bombing/Explosion,Eastern Resistance,3,96,99,Police,Vehicle,0,12.0123,-70.1562
+2004,Central Asia,Kyrgyzstan,Hostage Taking,Grey Wolf Alliance,0,0,0,Government,Unknown,1,47.3962,76.7329
+2004,Africa,Libya,Armed Assault,Shadow Front,1,1,2,Civilians,Vehicle,1,-4.8961,39.0899
+2004,Middle East,Syria,Facility Attack,Frontier Guard,8,0,8,Police,Chemical,0,31.7993,45.7176
+2004,South Asia,Bangladesh,Bombing/Explosion,Black Sun Collective,2,51,53,Military,Unknown,1,9.3411,90.3666
+2004,Southeast Asia,Indonesia,Hijacking,Northern Covenant,0,0,0,Civilians,Firearms,1,10.4081,99.7533
+2004,Southeast Asia,Myanmar,Armed Assault,Unknown Cell,0,1,1,Government,Unknown,1,11.6642,117.8652
+2004,Central Asia,Kyrgyzstan,Bombing/Explosion,Storm Seekers,4,29,33,Business,Melee,1,38.9327,71.5613
+2004,South Asia,India,Assassination,Silent Thunder,0,0,0,Religious,Chemical,0,10.0481,77.1777
+2004,South Asia,Bangladesh,Assassination,Northern Covenant,2,3,5,Business,Melee,1,24.9656,73.3221
+2004,Central Asia,Kazakhstan,Hostage Taking,Unknown Cell,0,1,1,Military,Vehicle,0,44.5926,69.1245
+2004,Southeast Asia,Philippines,Assassination,Iron Vanguard,0,1,1,Civilians,Chemical,0,6.8858,122.816
+2004,South Asia,Nepal,Bombing/Explosion,Free Sons Movement,12,13,25,Military,Firearms,1,20.8504,76.6735
+2004,Europe,Ukraine,Armed Assault,Northern Covenant,18,0,18,Religious,Explosives,1,45.8382,30.6421
+2004,Europe,Kosovo,Unarmed Assault,Shadow Front,4,0,4,Military,Unknown,0,49.7026,19.4952
+2004,Southeast Asia,Philippines,Bombing/Explosion,Grey Wolf Alliance,28,25,53,Civilians,Melee,0,13.2265,113.4201
+2004,South Asia,Nepal,Unarmed Assault,Crimson Path,5,0,5,Military,Firearms,1,21.9348,80.4319
+2004,South Asia,Nepal,Bombing/Explosion,Silent Thunder,14,18,32,Military,Firearms,1,11.6027,70.0026
+2004,Africa,Libya,Armed Assault,Silent Thunder,9,9,18,Police,Explosives,1,8.7874,19.4183
+2004,Europe,Turkey,Unarmed Assault,Silent Thunder,2,2,4,Government,Firearms,1,42.3745,36.1509
+2004,Europe,Ukraine,Assassination,Eastern Resistance,0,1,1,Police,Chemical,1,49.5292,38.8441
+2004,Europe,Kosovo,Assassination,Black Sun Collective,0,9,9,Military,Melee,0,47.4749,30.1824
+2004,Americas,Peru,Armed Assault,Grey Wolf Alliance,10,36,46,Government,Unknown,0,13.9881,-67.7638
+2004,Americas,El Salvador,Bombing/Explosion,Iron Vanguard,4,57,61,Military,Unknown,0,15.61,-80.0423
+2004,Central Asia,Tajikistan,Armed Assault,Liberation Front Alpha,13,13,26,Military,Firearms,1,38.7264,74.8543
+2004,Central Asia,Tajikistan,Bombing/Explosion,Frontier Guard,17,10,27,Government,Melee,1,45.168,68.2066
+2004,South Asia,India,Armed Assault,Silent Thunder,13,8,21,Business,Chemical,1,13.654,81.463
+2004,Central Asia,Kyrgyzstan,Bombing/Explosion,Liberation Front Alpha,1,10,11,Military,Unknown,1,45.562,69.7667
+2004,South Asia,India,Facility Attack,Eastern Resistance,13,14,27,Military,Vehicle,1,15.1348,70.8622
+2004,Americas,Peru,Assassination,Free Sons Movement,8,2,10,Business,Firearms,1,10.7007,-73.9083
+2004,Middle East,Yemen,Bombing/Explosion,Liberation Front Alpha,5,4,9,Religious,Vehicle,1,30.9351,51.2979
+2004,Middle East,Iraq,Armed Assault,Black Sun Collective,1,0,1,Civilians,Vehicle,1,27.5708,57.8571
+2004,Americas,Peru,Armed Assault,Free Sons Movement,3,2,5,Religious,Explosives,1,18.9291,-78.6355
+2004,Middle East,Afghanistan,Unarmed Assault,Iron Vanguard,1,12,13,Government,Explosives,1,24.6218,36.3015
+2005,South Asia,Sri Lanka,Bombing/Explosion,Shadow Front,10,56,66,Religious,Unknown,0,17.5909,89.6691
+2005,Central Asia,Kazakhstan,Bombing/Explosion,Liberation Front Alpha,16,7,23,Religious,Explosives,1,47.4714,66.1256
+2005,Americas,El Salvador,Bombing/Explosion,Liberation Front Alpha,7,2,9,Military,Firearms,0,16.6691,-87.0025
+2005,Central Asia,Kyrgyzstan,Unarmed Assault,Northern Covenant,1,5,6,Business,Vehicle,1,44.6824,72.8265
+2005,Europe,Kosovo,Hijacking,Crimson Path,0,0,0,Government,Melee,0,45.7925,17.295
+2005,Southeast Asia,Philippines,Armed Assault,Iron Vanguard,3,48,51,Civilians,Firearms,1,17.4996,101.1767
+2005,Europe,Ukraine,Bombing/Explosion,Iron Vanguard,27,35,62,Government,Unknown,1,49.8221,19.6979
+2005,South Asia,Nepal,Hostage Taking,Iron Vanguard,0,2,2,Military,Melee,0,25.0375,88.3474
+2005,South Asia,Nepal,Armed Assault,Northern Covenant,12,11,23,Civilians,Vehicle,0,21.3501,86.7205
+2005,Africa,Ethiopia,Bombing/Explosion,Eastern Resistance,83,10,93,Civilians,Melee,0,9.4311,13.2661
+2005,Southeast Asia,Philippines,Bombing/Explosion,Eastern Resistance,51,66,117,Government,Vehicle,1,5.486,114.8566
+2005,Africa,Somalia,Unarmed Assault,Black Sun Collective,0,2,2,Business,Explosives,1,0.3017,22.7017
+2005,Africa,Nigeria,Armed Assault,Black Sun Collective,30,1,31,Military,Melee,1,11.2155,33.4241
+2005,Africa,Mali,Armed Assault,Iron Vanguard,6,46,52,Religious,Chemical,1,10.1862,26.5958
+2005,Middle East,Lebanon,Bombing/Explosion,Desert Storm Faction,14,5,19,Military,Explosives,1,24.6908,37.035
+2005,Middle East,Pakistan,Bombing/Explosion,Black Sun Collective,15,6,21,Civilians,Firearms,0,33.0937,47.7322
+2005,South Asia,Nepal,Armed Assault,Frontier Guard,5,0,5,Government,Firearms,1,17.0385,74.9118
+2005,Southeast Asia,Philippines,Bombing/Explosion,Free Sons Movement,16,19,35,Religious,Chemical,0,15.576,117.1727
+2005,South Asia,Sri Lanka,Armed Assault,Shadow Front,10,11,21,Religious,Explosives,1,16.636,78.9252
+2005,Europe,Kosovo,Armed Assault,Crimson Path,6,14,20,Civilians,Firearms,0,50.5751,19.2681
+2005,Americas,Peru,Hijacking,Shadow Front,0,1,1,Civilians,Chemical,1,22.4644,-78.1858
+2005,Americas,Peru,Facility Attack,Iron Vanguard,0,19,19,Government,Chemical,1,20.0998,-70.6186
+2005,Central Asia,Kyrgyzstan,Armed Assault,Eastern Resistance,0,6,6,Government,Vehicle,1,47.8979,68.8601
+2005,Africa,Mozambique,Bombing/Explosion,Storm Seekers,21,16,37,Business,Melee,1,3.3435,26.5706
+2005,Europe,Ukraine,Bombing/Explosion,Free Sons Movement,1,21,22,Military,Chemical,1,40.2487,39.4659
+2005,Southeast Asia,Myanmar,Armed Assault,Liberation Front Alpha,8,14,22,Military,Explosives,1,17.5972,124.1987
+2005,Southeast Asia,Philippines,Bombing/Explosion,Storm Seekers,8,22,30,Business,Vehicle,1,21.4127,121.3143
+2005,Europe,Turkey,Bombing/Explosion,Desert Storm Faction,10,30,40,Government,Unknown,1,43.9743,29.7287
+2005,South Asia,India,Assassination,Eastern Resistance,1,2,3,Business,Unknown,1,23.9216,78.403
+2005,Central Asia,Tajikistan,Bombing/Explosion,Red Crescent Brigade,5,0,5,Business,Explosives,1,44.8553,71.9948
+2005,Africa,Sudan,Armed Assault,Northern Covenant,1,1,2,Government,Melee,1,2.3682,24.5235
+2005,Central Asia,Kyrgyzstan,Bombing/Explosion,Shadow Front,10,25,35,Civilians,Vehicle,1,42.3032,74.9038
+2005,Africa,Sudan,Armed Assault,Grey Wolf Alliance,1,33,34,Military,Melee,0,7.5498,40.6728
+2005,Middle East,Lebanon,Bombing/Explosion,Northern Covenant,0,39,39,Civilians,Unknown,1,31.6079,38.3408
+2005,Europe,Bosnia,Bombing/Explosion,Iron Vanguard,17,12,29,Government,Unknown,1,45.0708,39.1727
+2005,Africa,Libya,Bombing/Explosion,Storm Seekers,0,26,26,Military,Vehicle,1,3.062,28.5014
+2005,Africa,Sudan,Armed Assault,Storm Seekers,3,33,36,Police,Firearms,1,-2.8601,28.1333
+2005,Americas,Mexico,Armed Assault,Grey Wolf Alliance,6,33,39,Religious,Vehicle,1,15.5314,-72.6467
+2005,Southeast Asia,Thailand,Armed Assault,Unknown Cell,1,15,16,Business,Vehicle,1,21.3446,108.8385
+2005,Middle East,Yemen,Bombing/Explosion,Grey Wolf Alliance,17,36,53,Government,Firearms,1,27.9311,43.0367
+2005,South Asia,Nepal,Bombing/Explosion,Crimson Path,4,29,33,Business,Vehicle,1,25.4221,79.1074
+2006,Central Asia,Kazakhstan,Bombing/Explosion,Iron Vanguard,12,36,48,Government,Melee,0,44.4988,70.0023
+2006,Americas,El Salvador,Assassination,Silent Thunder,0,6,6,Civilians,Explosives,1,16.6923,-77.2295
+2006,Southeast Asia,Myanmar,Armed Assault,Storm Seekers,0,19,19,Religious,Chemical,1,13.4202,101.7063
+2006,Central Asia,Kazakhstan,Armed Assault,Frontier Guard,15,20,35,Religious,Melee,0,47.3653,77.0843
+2006,South Asia,India,Bombing/Explosion,Northern Covenant,12,15,27,Civilians,Firearms,1,11.1469,70.3247
+2006,Europe,Ukraine,Facility Attack,Eastern Resistance,27,1,28,Military,Vehicle,1,51.1125,22.4981
+2006,Central Asia,Kazakhstan,Facility Attack,Storm Seekers,3,8,11,Business,Chemical,1,44.1276,71.5869
+2006,Middle East,Yemen,Bombing/Explosion,Red Crescent Brigade,21,6,27,Business,Explosives,1,34.6412,55.0665
+2006,Southeast Asia,Myanmar,Armed Assault,Liberation Front Alpha,8,20,28,Religious,Melee,1,6.7003,112.6629
+2006,Africa,Ethiopia,Armed Assault,Desert Storm Faction,0,29,29,Police,Explosives,1,15.3373,14.7413
+2006,Middle East,Pakistan,Armed Assault,Frontier Guard,0,5,5,Police,Chemical,1,32.3864,61.9034
+2006,Middle East,Afghanistan,Hijacking,Red Crescent Brigade,0,0,0,Government,Vehicle,0,29.9586,36.2645
+2006,Americas,Honduras,Bombing/Explosion,Red Crescent Brigade,43,11,54,Government,Unknown,1,15.2609,-85.6376
+2006,Southeast Asia,Thailand,Armed Assault,Black Sun Collective,4,2,6,Civilians,Firearms,1,17.9643,104.0879
+2006,Central Asia,Kyrgyzstan,Armed Assault,Grey Wolf Alliance,7,10,17,Religious,Vehicle,1,39.8037,75.6275
+2006,Americas,Peru,Bombing/Explosion,Free Sons Movement,8,10,18,Police,Melee,1,16.6145,-75.3877
+2006,Middle East,Iraq,Bombing/Explosion,Unknown Cell,38,13,51,Religious,Unknown,1,25.255,39.0804
+2006,Europe,Bosnia,Hostage Taking,Silent Thunder,0,0,0,Police,Unknown,0,41.2652,37.0189
+2006,Central Asia,Tajikistan,Unarmed Assault,Iron Vanguard,4,2,6,Police,Explosives,1,39.1447,77.702
+2006,Central Asia,Tajikistan,Assassination,Black Sun Collective,1,0,1,Military,Explosives,0,41.2116,75.4809
+2006,Southeast Asia,Myanmar,Bombing/Explosion,Red Crescent Brigade,79,9,88,Police,Vehicle,1,9.8635,101.0358
+2006,Central Asia,Kyrgyzstan,Facility Attack,Iron Vanguard,7,4,11,Military,Firearms,1,38.2424,79.3975
+2006,Middle East,Syria,Unarmed Assault,Liberation Front Alpha,0,7,7,Military,Melee,0,31.3878,61.0702
+2006,Southeast Asia,Indonesia,Bombing/Explosion,Frontier Guard,7,54,61,Business,Firearms,1,13.0535,105.5632
+2006,Central Asia,Kazakhstan,Facility Attack,Iron Vanguard,12,14,26,Military,Vehicle,1,41.7612,66.063
+2006,Central Asia,Kyrgyzstan,Bombing/Explosion,Shadow Front,0,41,41,Military,Explosives,1,38.5148,73.1081
+2006,Central Asia,Tajikistan,Unarmed Assault,Red Crescent Brigade,1,9,10,Government,Melee,1,41.5791,78.0866
+2006,Middle East,Pakistan,Assassination,Shadow Front,2,5,7,Business,Chemical,0,30.5006,47.5774
+2006,Southeast Asia,Philippines,Assassination,Northern Covenant,1,2,3,Government,Melee,0,5.5487,107.6422
+2006,Central Asia,Kazakhstan,Bombing/Explosion,Unknown Cell,2,41,43,Civilians,Chemical,1,41.2961,76.3602
+2006,South Asia,Bangladesh,Bombing/Explosion,Shadow Front,9,18,27,Government,Chemical,0,26.2804,86.3738
+2006,Middle East,Yemen,Assassination,Red Crescent Brigade,3,2,5,Government,Chemical,0,35.5377,49.8844
+2006,Southeast Asia,Philippines,Bombing/Explosion,Desert Storm Faction,4,24,28,Military,Vehicle,1,16.0557,107.9455
+2006,Middle East,Iraq,Bombing/Explosion,Silent Thunder,9,17,26,Civilians,Firearms,1,35.1838,55.7763
+2006,Americas,El Salvador,Bombing/Explosion,Red Crescent Brigade,0,6,6,Civilians,Vehicle,1,13.5944,-79.3292
+2006,Europe,Ukraine,Unarmed Assault,Northern Covenant,0,5,5,Military,Melee,1,44.1175,37.9517
+2006,Middle East,Pakistan,Bombing/Explosion,Frontier Guard,0,14,14,Civilians,Vehicle,1,35.5484,59.0022
+2006,Central Asia,Kazakhstan,Facility Attack,Red Crescent Brigade,12,0,12,Government,Firearms,0,38.7661,66.9007
+2006,Middle East,Afghanistan,Armed Assault,Black Sun Collective,5,18,23,Police,Unknown,0,36.9752,39.7618
+2006,Southeast Asia,Philippines,Assassination,Silent Thunder,5,4,9,Government,Explosives,1,14.242,109.8479
+2006,Central Asia,Kazakhstan,Armed Assault,Storm Seekers,10,21,31,Military,Melee,0,45.8021,69.3903
+2006,Americas,Peru,Armed Assault,Silent Thunder,4,19,23,Business,Chemical,1,6.08,-67.4894
+2007,Africa,Somalia,Bombing/Explosion,Grey Wolf Alliance,0,69,69,Military,Firearms,1,8.0249,19.7581
+2007,Middle East,Afghanistan,Hostage Taking,Crimson Path,0,1,1,Police,Firearms,1,27.0564,48.768
+2007,Middle East,Iraq,Armed Assault,Iron Vanguard,2,16,18,Civilians,Explosives,1,31.6471,44.712
+2007,Africa,Ethiopia,Armed Assault,Red Crescent Brigade,0,24,24,Religious,Vehicle,1,-3.8896,16.5834
+2007,Europe,Turkey,Bombing/Explosion,Unknown Cell,31,6,37,Business,Melee,1,49.156,38.4306
+2007,Central Asia,Tajikistan,Unarmed Assault,Liberation Front Alpha,4,6,10,Religious,Melee,0,43.9096,76.3588
+2007,Central Asia,Kyrgyzstan,Armed Assault,Crimson Path,8,5,13,Civilians,Vehicle,1,47.2857,76.286
+2007,Americas,El Salvador,Unarmed Assault,Black Sun Collective,0,1,1,Business,Unknown,1,24.8178,-76.631
+2007,Southeast Asia,Thailand,Bombing/Explosion,Unknown Cell,6,63,69,Civilians,Vehicle,1,21.8744,102.1468
+2007,Africa,Libya,Bombing/Explosion,Shadow Front,1,47,48,Business,Firearms,1,2.3956,28.2746
+2007,Africa,DRC,Bombing/Explosion,Iron Vanguard,7,19,26,Government,Melee,0,15.2565,29.456
+2007,Americas,Peru,Facility Attack,Shadow Front,7,16,23,Government,Firearms,1,5.3453,-89.7782
+2007,Europe,Turkey,Bombing/Explosion,Grey Wolf Alliance,7,16,23,Government,Explosives,1,40.9546,37.4261
+2007,Middle East,Yemen,Bombing/Explosion,Red Crescent Brigade,9,0,9,Military,Melee,1,30.4341,42.5951
+2007,Central Asia,Kyrgyzstan,Assassination,Free Sons Movement,0,1,1,Police,Firearms,1,38.385,75.2666
+2007,Americas,Peru,Bombing/Explosion,Desert Storm Faction,9,34,43,Civilians,Unknown,1,24.0341,-65.2007
+2007,Southeast Asia,Thailand,Armed Assault,Eastern Resistance,3,8,11,Civilians,Explosives,1,10.9454,97.3244
+2007,Americas,Colombia,Bombing/Explosion,Iron Vanguard,10,36,46,Religious,Melee,1,21.5828,-72.9746
+2007,Europe,Bosnia,Bombing/Explosion,Unknown Cell,35,20,55,Religious,Melee,1,44.3234,39.3775
+2007,Africa,Mozambique,Unarmed Assault,Unknown Cell,4,1,5,Military,Melee,0,-0.9922,11.4275
+2007,Americas,Colombia,Bombing/Explosion,Grey Wolf Alliance,14,11,25,Business,Firearms,1,15.2159,-70.4782
+2007,Southeast Asia,Thailand,Unarmed Assault,Black Sun Collective,1,5,6,Religious,Vehicle,0,5.5542,116.7878
+2007,Middle East,Iraq,Unarmed Assault,Silent Thunder,6,0,6,Police,Firearms,1,36.9716,54.2794
+2007,Americas,Colombia,Facility Attack,Grey Wolf Alliance,5,6,11,Police,Chemical,0,17.142,-73.5201
+2007,Africa,Libya,Bombing/Explosion,Crimson Path,2,6,8,Government,Chemical,1,1.1007,17.7783
+2007,South Asia,Bangladesh,Armed Assault,Black Sun Collective,2,2,4,Government,Explosives,1,19.5702,90.9826
+2007,Middle East,Afghanistan,Assassination,Eastern Resistance,0,0,0,Police,Explosives,0,32.4933,53.5513
+2007,South Asia,Sri Lanka,Unarmed Assault,Red Crescent Brigade,1,6,7,Business,Firearms,0,18.5981,82.0341
+2007,Africa,Libya,Armed Assault,Frontier Guard,6,51,57,Police,Explosives,1,5.5256,41.4639
+2007,Southeast Asia,Myanmar,Unarmed Assault,Grey Wolf Alliance,1,6,7,Religious,Vehicle,1,7.0534,102.9013
+2007,Europe,Ukraine,Bombing/Explosion,Iron Vanguard,36,30,66,Military,Explosives,1,40.2872,19.1734
+2007,Americas,Honduras,Unarmed Assault,Silent Thunder,1,6,7,Government,Vehicle,1,13.0464,-76.0765
+2007,Middle East,Afghanistan,Unarmed Assault,Shadow Front,0,1,1,Civilians,Melee,1,32.0162,64.8299
+2007,Southeast Asia,Thailand,Unarmed Assault,Crimson Path,2,3,5,Police,Vehicle,1,17.5919,108.0707
+2007,Southeast Asia,Myanmar,Hostage Taking,Iron Vanguard,0,4,4,Military,Unknown,0,20.5778,123.0986
+2007,Middle East,Pakistan,Assassination,Grey Wolf Alliance,2,2,4,Religious,Unknown,0,28.9319,48.719
+2007,Americas,Peru,Unarmed Assault,Grey Wolf Alliance,8,2,10,Business,Explosives,1,14.8659,-88.7928
+2007,Americas,Honduras,Facility Attack,Red Crescent Brigade,19,5,24,Civilians,Vehicle,1,12.6814,-71.0675
+2007,Central Asia,Kyrgyzstan,Unarmed Assault,Frontier Guard,0,6,6,Government,Unknown,1,43.1913,73.6271
+2007,Middle East,Afghanistan,Bombing/Explosion,Red Crescent Brigade,20,40,60,Government,Explosives,1,30.3263,42.4854
+2007,Africa,Somalia,Unarmed Assault,Grey Wolf Alliance,9,6,15,Military,Unknown,1,-2.6006,27.6692
+2007,Middle East,Pakistan,Unarmed Assault,Free Sons Movement,2,8,10,Civilians,Chemical,1,26.5367,50.1626
+2007,Africa,Mali,Bombing/Explosion,Eastern Resistance,20,14,34,Government,Chemical,1,6.1206,14.0377
+2008,Southeast Asia,Philippines,Armed Assault,Desert Storm Faction,17,3,20,Religious,Vehicle,1,6.4767,99.1045
+2008,Southeast Asia,Philippines,Hijacking,Red Crescent Brigade,1,3,4,Business,Explosives,0,8.7815,97.2305
+2008,Africa,Libya,Armed Assault,Liberation Front Alpha,10,14,24,Civilians,Unknown,1,14.4261,32.6179
+2008,Europe,Ukraine,Unarmed Assault,Unknown Cell,4,2,6,Religious,Chemical,1,50.0972,31.5283
+2008,Middle East,Lebanon,Assassination,Storm Seekers,4,0,4,Military,Firearms,1,28.8907,63.3517
+2008,Africa,Mozambique,Bombing/Explosion,Unknown Cell,2,9,11,Civilians,Firearms,1,2.065,16.3543
+2008,Americas,Mexico,Bombing/Explosion,Shadow Front,13,19,32,Police,Explosives,1,17.2243,-72.2502
+2008,Southeast Asia,Thailand,Assassination,Storm Seekers,3,1,4,Military,Unknown,0,15.8411,109.527
+2008,Africa,Mali,Facility Attack,Liberation Front Alpha,3,0,3,Business,Unknown,1,14.9187,22.5507
+2008,Europe,Bosnia,Bombing/Explosion,Black Sun Collective,9,28,37,Police,Explosives,0,50.7618,34.0984
+2008,Africa,Mali,Assassination,Liberation Front Alpha,0,0,0,Religious,Explosives,1,18.9079,31.1396
+2008,Europe,Russia,Hostage Taking,Storm Seekers,0,0,0,Military,Vehicle,0,50.3681,30.0265
+2008,Middle East,Afghanistan,Bombing/Explosion,Crimson Path,11,5,16,Government,Firearms,0,34.1768,37.7633
+2008,Africa,DRC,Armed Assault,Eastern Resistance,10,22,32,Religious,Vehicle,1,1.5175,11.7483
+2008,South Asia,Nepal,Assassination,Red Crescent Brigade,1,12,13,Business,Explosives,1,18.6551,81.7401
+2008,South Asia,India,Unarmed Assault,Silent Thunder,1,3,4,Civilians,Chemical,1,11.3596,80.9544
+2008,Central Asia,Tajikistan,Bombing/Explosion,Iron Vanguard,81,7,88,Religious,Unknown,1,41.527,76.4902
+2008,Middle East,Pakistan,Bombing/Explosion,Free Sons Movement,51,1,52,Religious,Chemical,1,26.0409,51.5353
+2008,South Asia,Nepal,Facility Attack,Shadow Front,2,0,2,Civilians,Melee,1,13.606,85.6
+2008,Central Asia,Kazakhstan,Hostage Taking,Red Crescent Brigade,1,1,2,Government,Chemical,1,41.9794,72.2735
+2008,Africa,Nigeria,Bombing/Explosion,Crimson Path,22,12,34,Police,Unknown,1,1.8115,13.9566
+2008,Southeast Asia,Indonesia,Bombing/Explosion,Grey Wolf Alliance,8,1,9,Religious,Unknown,0,19.6537,97.2958
+2008,Southeast Asia,Indonesia,Bombing/Explosion,Silent Thunder,7,71,78,Business,Unknown,0,15.2828,99.5554
+2008,Central Asia,Tajikistan,Bombing/Explosion,Silent Thunder,8,48,56,Civilians,Chemical,1,45.8477,71.3773
+2008,Africa,Libya,Armed Assault,Desert Storm Faction,14,5,19,Police,Explosives,1,11.4013,25.0848
+2008,Middle East,Syria,Hijacking,Grey Wolf Alliance,0,0,0,Military,Chemical,1,27.6975,56.3835
+2008,Europe,Ukraine,Hijacking,Iron Vanguard,0,0,0,Police,Unknown,1,44.4729,28.6645
+2008,South Asia,India,Armed Assault,Desert Storm Faction,6,6,12,Government,Firearms,1,20.397,70.6148
+2008,South Asia,India,Bombing/Explosion,Iron Vanguard,14,19,33,Military,Firearms,1,32.4944,82.2418
+2008,Europe,Turkey,Facility Attack,Crimson Path,2,8,10,Police,Chemical,1,46.7997,20.8107
+2008,Africa,Ethiopia,Armed Assault,Frontier Guard,11,0,11,Police,Melee,0,-4.0873,32.0479
+2009,Africa,Mali,Hostage Taking,Liberation Front Alpha,0,1,1,Police,Vehicle,1,2.8254,30.8643
+2009,Southeast Asia,Indonesia,Armed Assault,Silent Thunder,3,13,16,Civilians,Unknown,0,6.3844,98.1513
+2009,Europe,Russia,Hostage Taking,Free Sons Movement,0,0,0,Civilians,Firearms,1,41.4577,19.9342
+2009,Middle East,Yemen,Armed Assault,Grey Wolf Alliance,1,3,4,Police,Unknown,0,30.3335,57.7208
+2009,Europe,Ukraine,Bombing/Explosion,Desert Storm Faction,16,15,31,Business,Vehicle,0,48.6393,37.0057
+2009,Africa,DRC,Assassination,Frontier Guard,2,5,7,Religious,Firearms,1,8.0813,16.5428
+2009,Africa,Libya,Armed Assault,Free Sons Movement,6,17,23,Military,Firearms,0,18.177,33.0442
+2009,South Asia,Bangladesh,Bombing/Explosion,Shadow Front,6,14,20,Government,Vehicle,1,20.2328,91.8394
+2009,Southeast Asia,Myanmar,Bombing/Explosion,Eastern Resistance,22,13,35,Business,Explosives,1,10.6276,96.8332
+2009,South Asia,India,Armed Assault,Northern Covenant,7,2,9,Government,Chemical,0,16.9689,68.3391
+2009,Africa,Ethiopia,Assassination,Grey Wolf Alliance,1,5,6,Business,Melee,1,14.1747,39.8979
+2009,Southeast Asia,Myanmar,Bombing/Explosion,Frontier Guard,36,34,70,Civilians,Firearms,1,8.6795,100.3498
+2009,South Asia,Bangladesh,Armed Assault,Frontier Guard,10,9,19,Religious,Chemical,1,33.1331,85.6944
+2009,Europe,Russia,Bombing/Explosion,Red Crescent Brigade,15,3,18,Military,Firearms,0,41.0961,35.0838
+2009,South Asia,Bangladesh,Facility Attack,Crimson Path,2,4,6,Police,Melee,1,33.2159,71.2874
+2009,Europe,Kosovo,Armed Assault,Crimson Path,25,6,31,Police,Chemical,1,42.8893,24.8312
+2009,Southeast Asia,Indonesia,Armed Assault,Northern Covenant,6,9,15,Military,Chemical,1,6.3294,113.1614
+2009,Southeast Asia,Thailand,Hostage Taking,Storm Seekers,1,2,3,Civilians,Vehicle,1,13.3316,118.669
+2009,Americas,El Salvador,Assassination,Storm Seekers,0,2,2,Government,Firearms,1,12.3137,-78.3481
+2009,Southeast Asia,Indonesia,Bombing/Explosion,Liberation Front Alpha,31,16,47,Military,Chemical,1,20.6503,100.7295
+2009,Southeast Asia,Philippines,Bombing/Explosion,Iron Vanguard,5,28,33,Government,Melee,1,5.0954,104.3117
+2009,Africa,Nigeria,Assassination,Silent Thunder,3,0,3,Religious,Explosives,0,11.0419,22.7454
+2009,Africa,Libya,Assassination,Frontier Guard,2,5,7,Religious,Chemical,0,16.5796,39.6824
+2009,Europe,Kosovo,Bombing/Explosion,Shadow Front,11,110,121,Government,Unknown,0,49.007,35.1858
+2009,Middle East,Pakistan,Unarmed Assault,Iron Vanguard,4,6,10,Police,Firearms,0,26.2998,60.6774
+2009,Central Asia,Kazakhstan,Bombing/Explosion,Desert Storm Faction,24,4,28,Military,Unknown,1,41.1424,77.8684
+2009,Southeast Asia,Philippines,Armed Assault,Unknown Cell,1,7,8,Business,Unknown,0,10.3802,116.2793
+2009,Southeast Asia,Thailand,Armed Assault,Iron Vanguard,2,6,8,Military,Unknown,1,19.2412,115.0892
+2010,Central Asia,Kyrgyzstan,Bombing/Explosion,Northern Covenant,39,46,85,Religious,Melee,1,42.434,69.1329
+2010,Americas,El Salvador,Bombing/Explosion,Grey Wolf Alliance,17,52,69,Government,Unknown,0,23.8218,-82.2209
+2010,Middle East,Afghanistan,Armed Assault,Unknown Cell,12,6,18,Civilians,Unknown,1,36.0935,38.5567
+2010,South Asia,India,Bombing/Explosion,Shadow Front,4,19,23,Military,Chemical,1,8.5228,72.0641
+2010,Southeast Asia,Thailand,Armed Assault,Unknown Cell,10,6,16,Military,Unknown,0,10.2323,115.4267
+2010,Southeast Asia,Myanmar,Armed Assault,Liberation Front Alpha,8,1,9,Police,Vehicle,1,8.0261,99.2128
+2010,South Asia,Sri Lanka,Bombing/Explosion,Desert Storm Faction,24,45,69,Civilians,Firearms,1,15.6682,84.7414
+2010,Europe,Bosnia,Assassination,Storm Seekers,2,10,12,Military,Melee,0,46.2765,35.7375
+2010,Middle East,Pakistan,Armed Assault,Storm Seekers,14,28,42,Religious,Chemical,1,36.9188,48.5817
+2010,Central Asia,Tajikistan,Bombing/Explosion,Desert Storm Faction,48,43,91,Civilians,Unknown,0,43.5161,76.147
+2010,Americas,Mexico,Bombing/Explosion,Storm Seekers,20,0,20,Military,Vehicle,1,23.4384,-77.0743
+2010,Europe,Russia,Armed Assault,Shadow Front,5,10,15,Government,Melee,1,44.5349,29.7098
+2010,Southeast Asia,Philippines,Assassination,Unknown Cell,0,1,1,Civilians,Explosives,1,13.0834,105.1002
+2010,South Asia,Nepal,Armed Assault,Frontier Guard,25,26,51,Police,Vehicle,1,27.5532,78.5362
+2010,Americas,Honduras,Assassination,Liberation Front Alpha,3,1,4,Business,Unknown,1,21.6819,-83.6856
+2010,Africa,Mozambique,Assassination,Unknown Cell,0,0,0,Business,Melee,1,18.2247,17.4977
+2010,Middle East,Yemen,Armed Assault,Grey Wolf Alliance,2,0,2,Military,Melee,0,29.2098,36.8281
+2010,Africa,Mali,Unarmed Assault,Shadow Front,0,11,11,Civilians,Chemical,0,-1.7527,20.6607
+2010,Africa,Sudan,Facility Attack,Northern Covenant,6,2,8,Military,Vehicle,1,6.5147,31.0755
+2010,Africa,Libya,Bombing/Explosion,Red Crescent Brigade,2,19,21,Religious,Firearms,0,5.9137,33.1723
+2010,Americas,Peru,Bombing/Explosion,Silent Thunder,0,75,75,Military,Firearms,1,14.416,-72.8303
+2010,Europe,Kosovo,Facility Attack,Liberation Front Alpha,2,3,5,Military,Unknown,1,51.0034,24.6893
+2010,Europe,Bosnia,Unarmed Assault,Iron Vanguard,1,0,1,Government,Unknown,0,45.0951,24.8463
+2010,Europe,Turkey,Bombing/Explosion,Grey Wolf Alliance,18,35,53,Civilians,Chemical,1,42.8219,24.057
+2010,Americas,Honduras,Hostage Taking,Northern Covenant,1,0,1,Government,Explosives,1,7.7616,-85.3007
+2010,Europe,Ukraine,Armed Assault,Storm Seekers,6,10,16,Police,Unknown,1,41.809,22.7773
+2010,Middle East,Afghanistan,Unarmed Assault,Iron Vanguard,6,2,8,Police,Vehicle,1,29.1768,51.0031
+2010,Central Asia,Kazakhstan,Armed Assault,Shadow Front,3,11,14,Military,Unknown,1,46.6247,77.0533
+2010,Africa,Sudan,Assassination,Storm Seekers,2,1,3,Police,Vehicle,0,-4.7103,30.9222
+2010,Europe,Ukraine,Armed Assault,Unknown Cell,4,8,12,Police,Melee,0,41.3915,35.1781
+2010,Americas,Peru,Facility Attack,Crimson Path,9,4,13,Military,Unknown,1,15.7005,-80.8785
+2010,Europe,Turkey,Hostage Taking,Silent Thunder,2,1,3,Business,Unknown,1,40.0835,38.705
+2010,Africa,Mali,Armed Assault,Desert Storm Faction,23,21,44,Civilians,Chemical,1,6.3747,11.5534
+2010,Middle East,Yemen,Armed Assault,Liberation Front Alpha,3,23,26,Religious,Explosives,0,32.923,43.3175
+2010,Africa,Nigeria,Armed Assault,Desert Storm Faction,0,31,31,Religious,Firearms,1,5.4265,24.2966
+2010,Middle East,Pakistan,Bombing/Explosion,Iron Vanguard,17,1,18,Business,Unknown,1,33.6028,43.2102
+2010,Middle East,Syria,Hostage Taking,Eastern Resistance,1,5,6,Religious,Unknown,1,35.6053,46.0162
+2010,Americas,Mexico,Unarmed Assault,Liberation Front Alpha,0,3,3,Government,Unknown,0,16.3814,-88.984
+2010,Middle East,Syria,Assassination,Silent Thunder,2,4,6,Civilians,Unknown,0,35.4665,47.0755
+2010,Africa,Libya,Armed Assault,Silent Thunder,4,2,6,Civilians,Explosives,1,13.6692,33.091
+2010,Central Asia,Tajikistan,Hijacking,Grey Wolf Alliance,0,1,1,Military,Firearms,1,47.9492,74.2337
+2010,Southeast Asia,Philippines,Armed Assault,Silent Thunder,4,35,39,Military,Vehicle,1,20.9031,103.2436
+2010,Africa,Nigeria,Assassination,Shadow Front,0,3,3,Police,Firearms,0,1.817,23.0298
+2010,Southeast Asia,Myanmar,Bombing/Explosion,Northern Covenant,0,5,5,Military,Vehicle,1,21.5903,104.5448
+2010,Middle East,Lebanon,Armed Assault,Eastern Resistance,4,7,11,Business,Explosives,1,33.4661,53.6702
+2010,Europe,Turkey,Armed Assault,Liberation Front Alpha,9,28,37,Government,Vehicle,1,46.6919,23.5738
+2010,Central Asia,Tajikistan,Bombing/Explosion,Black Sun Collective,18,82,100,Government,Unknown,1,43.3224,67.5502
+2010,Europe,Ukraine,Assassination,Liberation Front Alpha,4,2,6,Civilians,Chemical,0,47.5766,29.0331
+2010,South Asia,Nepal,Armed Assault,Frontier Guard,14,12,26,Military,Melee,1,20.1519,71.7416
+2010,Americas,Peru,Assassination,Grey Wolf Alliance,0,4,4,Religious,Vehicle,0,5.4682,-65.6661
+2010,Europe,Russia,Armed Assault,Iron Vanguard,0,10,10,Police,Chemical,1,47.2855,36.2417
+2010,South Asia,Sri Lanka,Hijacking,Silent Thunder,1,0,1,Police,Chemical,1,30.4872,86.405
+2010,Americas,El Salvador,Armed Assault,Liberation Front Alpha,2,29,31,Religious,Firearms,1,16.985,-82.0149
+2010,Middle East,Lebanon,Unarmed Assault,Black Sun Collective,2,1,3,Military,Unknown,0,28.1311,51.5332
+2010,Central Asia,Tajikistan,Armed Assault,Free Sons Movement,9,10,19,Military,Vehicle,1,47.2455,67.3545
+2010,Europe,Bosnia,Bombing/Explosion,Iron Vanguard,12,100,112,Police,Melee,1,47.8743,32.0838
+2010,Americas,El Salvador,Hijacking,Frontier Guard,1,0,1,Business,Vehicle,1,5.5808,-84.3952
+2010,Americas,Colombia,Assassination,Red Crescent Brigade,3,6,9,Business,Unknown,1,5.4567,-74.7547
+2010,Southeast Asia,Indonesia,Assassination,Black Sun Collective,0,0,0,Business,Melee,1,15.2228,118.6964
+2010,Americas,Mexico,Facility Attack,Eastern Resistance,1,8,9,Religious,Firearms,1,19.4612,-84.0171
+2010,South Asia,Nepal,Bombing/Explosion,Northern Covenant,16,26,42,Religious,Explosives,0,13.3822,79.0683
+2010,Americas,El Salvador,Hijacking,Frontier Guard,2,2,4,Government,Firearms,0,15.0043,-87.2211
+2010,Central Asia,Kazakhstan,Bombing/Explosion,Storm Seekers,2,11,13,Police,Unknown,0,38.0688,65.4848
+2010,Central Asia,Kyrgyzstan,Hijacking,Silent Thunder,0,0,0,Business,Vehicle,1,42.1709,68.9004
+2010,Middle East,Lebanon,Hostage Taking,Free Sons Movement,1,3,4,Religious,Unknown,0,33.2919,48.7171
+2010,Middle East,Afghanistan,Facility Attack,Grey Wolf Alliance,1,6,7,Religious,Unknown,0,28.7239,56.7821
+2010,Southeast Asia,Indonesia,Armed Assault,Frontier Guard,12,6,18,Civilians,Explosives,1,19.4002,117.7382
+2010,Southeast Asia,Myanmar,Armed Assault,Northern Covenant,1,7,8,Government,Unknown,1,20.5206,118.8666
+2010,Middle East,Afghanistan,Assassination,Crimson Path,0,8,8,Government,Explosives,1,33.2181,57.8226
+2010,Africa,Libya,Assassination,Frontier Guard,0,1,1,Civilians,Melee,0,12.489,28.1834
+2010,Central Asia,Kazakhstan,Bombing/Explosion,Silent Thunder,13,113,126,Government,Melee,1,46.8017,73.4531
+2010,Africa,Sudan,Assassination,Silent Thunder,0,0,0,Religious,Melee,1,5.9966,19.4361
+2010,South Asia,Sri Lanka,Assassination,Frontier Guard,0,0,0,Government,Vehicle,1,13.9259,88.4221
+2010,South Asia,India,Bombing/Explosion,Eastern Resistance,4,26,30,Business,Unknown,1,30.626,80.4036
+2010,South Asia,Nepal,Assassination,Free Sons Movement,0,0,0,Police,Chemical,0,16.1717,76.9847
+2010,Southeast Asia,Myanmar,Facility Attack,Iron Vanguard,8,3,11,Government,Vehicle,1,20.2513,95.427
+2011,Africa,Mali,Bombing/Explosion,Northern Covenant,7,9,16,Government,Melee,1,13.219,13.8269
+2011,Europe,Kosovo,Assassination,Crimson Path,7,0,7,Business,Unknown,0,50.0797,36.1436
+2011,South Asia,Sri Lanka,Armed Assault,Iron Vanguard,18,17,35,Government,Explosives,1,10.5698,75.9084
+2011,Americas,Honduras,Facility Attack,Frontier Guard,0,32,32,Business,Chemical,0,24.4087,-88.6006
+2011,South Asia,Sri Lanka,Bombing/Explosion,Northern Covenant,5,2,7,Religious,Unknown,1,32.3447,88.5805
+2011,Southeast Asia,Indonesia,Bombing/Explosion,Silent Thunder,31,33,64,Civilians,Chemical,1,9.7171,117.2933
+2011,South Asia,Nepal,Bombing/Explosion,Iron Vanguard,17,4,21,Business,Firearms,1,27.8037,79.4548
+2011,Central Asia,Kazakhstan,Armed Assault,Eastern Resistance,5,18,23,Military,Unknown,1,42.783,71.6285
+2011,Middle East,Pakistan,Assassination,Free Sons Movement,0,1,1,Civilians,Chemical,1,31.4013,52.8697
+2011,Southeast Asia,Indonesia,Hostage Taking,Shadow Front,0,0,0,Government,Firearms,1,15.7939,117.6663
+2011,Central Asia,Tajikistan,Assassination,Desert Storm Faction,4,1,5,Religious,Vehicle,0,41.2864,72.2492
+2011,Africa,Libya,Facility Attack,Storm Seekers,20,3,23,Police,Firearms,1,11.9461,26.098
+2011,Middle East,Syria,Armed Assault,Red Crescent Brigade,10,3,13,Civilians,Melee,0,30.6241,50.3778
+2011,Central Asia,Tajikistan,Assassination,Grey Wolf Alliance,0,0,0,Military,Explosives,0,42.432,74.5682
+2011,South Asia,India,Hostage Taking,Eastern Resistance,0,1,1,Civilians,Firearms,1,15.94,86.3941
+2011,Southeast Asia,Thailand,Unarmed Assault,Crimson Path,14,4,18,Police,Firearms,1,7.6282,99.6916
+2011,Central Asia,Kazakhstan,Facility Attack,Eastern Resistance,1,0,1,Religious,Chemical,1,41.2568,72.747
+2011,Americas,El Salvador,Hostage Taking,Free Sons Movement,0,1,1,Government,Melee,1,10.2571,-66.6418
+2011,Africa,Sudan,Armed Assault,Black Sun Collective,11,33,44,Business,Unknown,1,13.6303,24.3907
+2011,Europe,Kosovo,Bombing/Explosion,Red Crescent Brigade,0,19,19,Police,Vehicle,1,44.9055,31.1448
+2011,Central Asia,Tajikistan,Bombing/Explosion,Free Sons Movement,11,28,39,Government,Unknown,1,44.6205,68.8389
+2011,Middle East,Afghanistan,Armed Assault,Northern Covenant,6,13,19,Business,Vehicle,1,31.2796,41.7841
+2011,Americas,El Salvador,Facility Attack,Silent Thunder,5,0,5,Business,Explosives,1,8.2084,-71.9288
+2011,Europe,Ukraine,Facility Attack,Desert Storm Faction,8,0,8,Business,Vehicle,1,50.9066,27.176
+2011,Americas,El Salvador,Bombing/Explosion,Unknown Cell,21,14,35,Government,Explosives,1,10.5209,-80.7638
+2011,Middle East,Yemen,Bombing/Explosion,Free Sons Movement,12,63,75,Military,Unknown,1,36.7033,57.241
+2011,Central Asia,Kazakhstan,Assassination,Frontier Guard,4,5,9,Business,Chemical,1,38.8801,68.6784
+2011,Central Asia,Kyrgyzstan,Bombing/Explosion,Crimson Path,12,35,47,Civilians,Chemical,1,44.8957,67.107
+2011,Central Asia,Kyrgyzstan,Hostage Taking,Silent Thunder,0,3,3,Military,Melee,0,41.6123,76.5905
+2011,South Asia,Nepal,Armed Assault,Desert Storm Faction,4,42,46,Government,Vehicle,1,13.1736,91.3145
+2011,Americas,Colombia,Bombing/Explosion,Shadow Front,48,36,84,Business,Unknown,1,12.9262,-77.8411
+2011,Middle East,Pakistan,Armed Assault,Crimson Path,2,1,3,Government,Chemical,1,24.4171,50.6221
+2011,Central Asia,Kyrgyzstan,Armed Assault,Iron Vanguard,15,2,17,Business,Chemical,1,38.6711,66.1333
+2011,Central Asia,Kazakhstan,Armed Assault,Frontier Guard,15,8,23,Religious,Chemical,0,38.8773,78.8375
+2011,South Asia,India,Hostage Taking,Silent Thunder,0,3,3,Military,Vehicle,0,20.1086,89.3445
+2011,Southeast Asia,Thailand,Bombing/Explosion,Silent Thunder,16,23,39,Police,Unknown,1,12.7188,118.4334
+2011,Middle East,Yemen,Assassination,Liberation Front Alpha,1,1,2,Police,Explosives,1,29.0693,36.2476
+2011,South Asia,Nepal,Facility Attack,Storm Seekers,7,2,9,Military,Chemical,1,16.4921,78.9861
+2011,Central Asia,Kyrgyzstan,Unarmed Assault,Northern Covenant,8,10,18,Government,Unknown,0,39.526,76.5949
+2011,South Asia,India,Bombing/Explosion,Liberation Front Alpha,7,35,42,Civilians,Chemical,0,9.0258,71.0558
+2011,Africa,DRC,Unarmed Assault,Desert Storm Faction,2,1,3,Military,Unknown,1,2.5732,23.5771
+2011,South Asia,Nepal,Bombing/Explosion,Free Sons Movement,80,0,80,Religious,Vehicle,1,32.6484,68.6102
+2011,Central Asia,Kyrgyzstan,Bombing/Explosion,Black Sun Collective,5,19,24,Business,Explosives,1,41.9918,68.0845
+2011,Central Asia,Kazakhstan,Bombing/Explosion,Red Crescent Brigade,13,24,37,Military,Firearms,1,43.783,72.7474
+2011,Middle East,Yemen,Hostage Taking,Iron Vanguard,1,1,2,Business,Melee,0,28.1194,41.5385
+2011,Africa,Mozambique,Bombing/Explosion,Black Sun Collective,16,1,17,Police,Explosives,0,-4.5964,22.1609
+2011,Central Asia,Kazakhstan,Armed Assault,Desert Storm Faction,3,3,6,Military,Melee,0,42.3415,77.7171
+2011,Southeast Asia,Philippines,Assassination,Silent Thunder,0,2,2,Religious,Vehicle,0,5.2695,123.927
+2011,Africa,Nigeria,Bombing/Explosion,Red Crescent Brigade,4,9,13,Religious,Firearms,1,-4.7682,26.5959
+2011,Europe,Ukraine,Bombing/Explosion,Black Sun Collective,4,80,84,Military,Firearms,0,47.9314,24.2926
+2011,Europe,Russia,Bombing/Explosion,Red Crescent Brigade,52,25,77,Government,Chemical,0,48.9036,35.258
+2011,Middle East,Syria,Bombing/Explosion,Desert Storm Faction,46,41,87,Business,Firearms,1,32.1291,62.3604
+2011,Africa,Nigeria,Facility Attack,Red Crescent Brigade,4,0,4,Police,Melee,1,6.7626,33.5184
+2011,Middle East,Pakistan,Armed Assault,Liberation Front Alpha,11,14,25,Military,Chemical,1,26.2066,38.9033
+2011,Middle East,Yemen,Hijacking,Unknown Cell,0,2,2,Business,Explosives,0,30.0376,48.0372
+2011,Europe,Russia,Facility Attack,Desert Storm Faction,3,9,12,Military,Unknown,1,45.7149,37.4887
+2011,Africa,DRC,Unarmed Assault,Free Sons Movement,8,2,10,Business,Unknown,0,6.9447,33.959
+2012,South Asia,Sri Lanka,Armed Assault,Black Sun Collective,9,7,16,Government,Firearms,1,10.1369,70.2749
+2012,Americas,Colombia,Bombing/Explosion,Eastern Resistance,20,38,58,Religious,Melee,1,18.1874,-81.7844
+2012,Americas,Honduras,Armed Assault,Storm Seekers,0,12,12,Military,Melee,0,7.6341,-79.4495
+2012,Americas,Colombia,Hostage Taking,Shadow Front,0,1,1,Military,Vehicle,1,20.8839,-65.5117
+2012,Southeast Asia,Philippines,Facility Attack,Eastern Resistance,3,11,14,Government,Firearms,1,10.4831,112.1626
+2012,South Asia,Bangladesh,Armed Assault,Silent Thunder,1,11,12,Government,Firearms,1,14.8329,78.5567
+2012,Southeast Asia,Thailand,Armed Assault,Grey Wolf Alliance,2,23,25,Police,Firearms,1,18.7188,109.6207
+2012,Southeast Asia,Philippines,Assassination,Black Sun Collective,5,16,21,Religious,Melee,0,9.4687,118.4586
+2012,Middle East,Pakistan,Bombing/Explosion,Silent Thunder,28,37,65,Government,Firearms,0,34.791,39.4881
+2012,South Asia,Nepal,Armed Assault,Grey Wolf Alliance,1,4,5,Military,Vehicle,1,32.4283,91.191
+2012,Europe,Turkey,Bombing/Explosion,Liberation Front Alpha,11,40,51,Business,Unknown,1,40.2006,33.3353
+2012,Americas,Mexico,Assassination,Northern Covenant,4,0,4,Religious,Chemical,1,21.0052,-80.9336
+2012,Americas,Mexico,Armed Assault,Northern Covenant,20,14,34,Religious,Explosives,1,17.6981,-68.5265
+2012,South Asia,Bangladesh,Facility Attack,Black Sun Collective,4,1,5,Business,Melee,1,33.1978,77.6209
+2012,Europe,Kosovo,Armed Assault,Silent Thunder,0,10,10,Business,Firearms,1,43.5999,16.8718
+2012,Southeast Asia,Thailand,Bombing/Explosion,Black Sun Collective,18,6,24,Military,Unknown,1,21.3077,96.7767
+2012,South Asia,Bangladesh,Facility Attack,Frontier Guard,4,14,18,Military,Firearms,1,12.1455,78.0562
+2012,South Asia,Nepal,Bombing/Explosion,Frontier Guard,32,70,102,Religious,Melee,1,18.4375,85.4235
+2012,South Asia,Sri Lanka,Armed Assault,Grey Wolf Alliance,3,4,7,Government,Unknown,1,16.5142,83.2822
+2012,Americas,Colombia,Hostage Taking,Iron Vanguard,1,0,1,Business,Chemical,1,18.2084,-82.5294
+2012,Southeast Asia,Indonesia,Bombing/Explosion,Black Sun Collective,1,8,9,Government,Unknown,1,9.6257,124.6388
+2012,Middle East,Lebanon,Armed Assault,Eastern Resistance,4,4,8,Government,Chemical,1,33.2269,61.0997
+2012,South Asia,India,Bombing/Explosion,Free Sons Movement,7,9,16,Religious,Unknown,1,23.5752,76.7012
+2012,Europe,Kosovo,Armed Assault,Silent Thunder,0,12,12,Government,Unknown,1,49.2393,36.0581
+2012,Africa,DRC,Armed Assault,Crimson Path,7,12,19,Police,Melee,0,-2.9227,13.2362
+2012,South Asia,Bangladesh,Bombing/Explosion,Silent Thunder,3,9,12,Police,Vehicle,1,10.7031,86.7421
+2012,Americas,Honduras,Facility Attack,Shadow Front,4,6,10,Business,Vehicle,1,22.4079,-73.3111
+2012,Middle East,Pakistan,Facility Attack,Crimson Path,3,3,6,Military,Unknown,0,31.4831,39.4067
+2012,Africa,Ethiopia,Facility Attack,Free Sons Movement,12,3,15,Police,Unknown,0,3.6826,35.2204
+2012,Americas,Honduras,Bombing/Explosion,Storm Seekers,10,30,40,Civilians,Vehicle,1,17.5624,-70.5592
+2012,South Asia,Sri Lanka,Bombing/Explosion,Silent Thunder,14,11,25,Police,Melee,1,31.9374,87.2455
+2012,Central Asia,Tajikistan,Armed Assault,Eastern Resistance,4,18,22,Civilians,Unknown,1,47.7358,68.7305
+2012,Africa,Mozambique,Assassination,Crimson Path,0,0,0,Business,Unknown,1,14.841,16.7002
+2012,Southeast Asia,Thailand,Hostage Taking,Iron Vanguard,0,2,2,Government,Melee,0,7.925,109.9951
+2012,Africa,Mali,Armed Assault,Liberation Front Alpha,0,57,57,Business,Melee,1,13.0485,30.4625
+2012,Europe,Russia,Hostage Taking,Crimson Path,0,6,6,Police,Firearms,1,48.4888,23.7648
+2012,Africa,Sudan,Unarmed Assault,Grey Wolf Alliance,8,2,10,Religious,Melee,1,-0.2553,19.9369
+2012,Southeast Asia,Thailand,Hostage Taking,Iron Vanguard,0,0,0,Civilians,Chemical,1,15.514,97.2781
+2012,Southeast Asia,Indonesia,Facility Attack,Unknown Cell,1,9,10,Police,Firearms,1,14.0581,106.9027
+2012,Middle East,Lebanon,Facility Attack,Northern Covenant,1,3,4,Police,Melee,1,36.6197,45.3913
+2012,Central Asia,Kazakhstan,Bombing/Explosion,Free Sons Movement,10,66,76,Religious,Firearms,1,40.7379,72.4174
+2012,South Asia,Sri Lanka,Facility Attack,Northern Covenant,1,0,1,Civilians,Vehicle,1,13.6152,68.298
+2012,Central Asia,Kyrgyzstan,Armed Assault,Black Sun Collective,0,28,28,Military,Vehicle,1,43.5123,73.5213
+2012,Central Asia,Kyrgyzstan,Assassination,Desert Storm Faction,2,0,2,Religious,Unknown,1,47.0234,70.8066
+2012,Central Asia,Tajikistan,Facility Attack,Northern Covenant,0,2,2,Government,Melee,1,41.6451,78.8826
+2012,Americas,Peru,Bombing/Explosion,Northern Covenant,2,76,78,Business,Unknown,1,22.1989,-65.3436
+2012,Americas,Mexico,Bombing/Explosion,Free Sons Movement,27,16,43,Business,Chemical,1,15.7072,-87.3798
+2012,South Asia,Nepal,Hostage Taking,Desert Storm Faction,2,0,2,Business,Unknown,0,29.348,73.3751
+2012,Central Asia,Kazakhstan,Armed Assault,Red Crescent Brigade,10,23,33,Civilians,Vehicle,1,42.3618,79.2975
+2012,Americas,El Salvador,Assassination,Iron Vanguard,0,4,4,Religious,Explosives,0,14.5325,-72.3423
+2012,Africa,Somalia,Unarmed Assault,Silent Thunder,1,1,2,Business,Melee,1,18.6838,33.2883
+2012,Europe,Kosovo,Hostage Taking,Grey Wolf Alliance,0,0,0,Religious,Firearms,0,42.5824,26.3028
+2012,Southeast Asia,Thailand,Armed Assault,Crimson Path,10,33,43,Business,Chemical,1,13.6352,107.2143
+2012,Southeast Asia,Thailand,Facility Attack,Crimson Path,4,14,18,Civilians,Chemical,1,17.8259,112.6234
+2012,Americas,Colombia,Armed Assault,Crimson Path,13,2,15,Military,Unknown,1,8.8924,-65.5055
+2012,Central Asia,Kazakhstan,Bombing/Explosion,Black Sun Collective,11,3,14,Business,Vehicle,1,41.3179,66.4124
+2013,Southeast Asia,Indonesia,Facility Attack,Iron Vanguard,5,22,27,Government,Vehicle,1,7.3547,105.2989
+2013,Africa,Sudan,Hostage Taking,Northern Covenant,0,1,1,Government,Melee,1,-0.3858,22.8457
+2013,Southeast Asia,Philippines,Armed Assault,Grey Wolf Alliance,8,10,18,Civilians,Explosives,1,5.3468,113.1848
+2013,Southeast Asia,Thailand,Bombing/Explosion,Black Sun Collective,8,11,19,Government,Explosives,0,13.9951,95.1398
+2013,Middle East,Pakistan,Assassination,Red Crescent Brigade,0,0,0,Business,Explosives,0,26.4503,54.0053
+2013,South Asia,Nepal,Bombing/Explosion,Unknown Cell,0,23,23,Police,Unknown,0,23.5927,81.7756
+2013,Southeast Asia,Myanmar,Armed Assault,Crimson Path,0,24,24,Civilians,Vehicle,1,5.6592,111.1277
+2013,Central Asia,Tajikistan,Unarmed Assault,Unknown Cell,2,5,7,Civilians,Explosives,1,39.8042,72.7773
+2013,Europe,Russia,Assassination,Grey Wolf Alliance,1,2,3,Police,Chemical,0,51.2538,38.2152
+2013,Central Asia,Tajikistan,Unarmed Assault,Northern Covenant,8,0,8,Police,Unknown,1,41.3834,70.4854
+2013,South Asia,Bangladesh,Bombing/Explosion,Unknown Cell,5,40,45,Religious,Explosives,0,31.9492,87.4618
+2013,Southeast Asia,Philippines,Facility Attack,Frontier Guard,0,0,0,Religious,Explosives,1,10.4494,110.8201
+2013,Americas,Honduras,Armed Assault,Crimson Path,3,1,4,Military,Chemical,1,10.6512,-86.6131
+2013,Africa,Ethiopia,Armed Assault,Grey Wolf Alliance,7,3,10,Police,Vehicle,1,-4.4041,13.3382
+2013,Americas,El Salvador,Armed Assault,Shadow Front,18,18,36,Military,Melee,0,18.978,-76.8112
+2013,Middle East,Afghanistan,Unarmed Assault,Silent Thunder,3,4,7,Civilians,Unknown,0,31.0562,54.587
+2013,Americas,Colombia,Bombing/Explosion,Free Sons Movement,35,6,41,Religious,Melee,1,12.0353,-76.5559
+2013,Central Asia,Tajikistan,Hostage Taking,Shadow Front,2,2,4,Military,Chemical,0,43.0875,75.217
+2013,Middle East,Yemen,Unarmed Assault,Northern Covenant,4,3,7,Business,Firearms,0,24.9485,41.9046
+2013,Southeast Asia,Philippines,Bombing/Explosion,Shadow Front,5,14,19,Military,Vehicle,1,16.7196,122.7294
+2013,Southeast Asia,Thailand,Hijacking,Shadow Front,1,0,1,Military,Vehicle,0,11.3203,120.1336
+2013,South Asia,Sri Lanka,Assassination,Free Sons Movement,3,0,3,Religious,Melee,0,18.9939,81.693
+2013,Africa,Mali,Unarmed Assault,Black Sun Collective,0,0,0,Police,Unknown,0,1.8154,32.089
+2013,Europe,Bosnia,Facility Attack,Storm Seekers,0,5,5,Religious,Firearms,0,45.8586,30.0032
+2013,Europe,Ukraine,Assassination,Iron Vanguard,0,13,13,Civilians,Vehicle,1,48.274,16.7631
+2013,South Asia,Bangladesh,Bombing/Explosion,Storm Seekers,15,4,19,Religious,Chemical,1,32.5311,74.156
+2013,Southeast Asia,Indonesia,Bombing/Explosion,Iron Vanguard,21,61,82,Police,Melee,1,14.6918,98.2548
+2013,Central Asia,Kazakhstan,Unarmed Assault,Shadow Front,4,0,4,Police,Chemical,0,40.0079,72.7734
+2013,Europe,Ukraine,Bombing/Explosion,Crimson Path,40,42,82,Civilians,Explosives,1,42.2137,34.0635
+2013,South Asia,Bangladesh,Assassination,Storm Seekers,0,0,0,Business,Vehicle,0,19.4926,86.459
+2013,Central Asia,Kazakhstan,Hostage Taking,Liberation Front Alpha,0,0,0,Government,Unknown,1,43.688,79.2288
+2013,South Asia,Nepal,Armed Assault,Grey Wolf Alliance,14,5,19,Civilians,Unknown,1,17.8809,90.7237
+2013,South Asia,Sri Lanka,Assassination,Iron Vanguard,4,2,6,Military,Melee,0,19.4107,88.9121
+2013,Americas,Honduras,Bombing/Explosion,Storm Seekers,3,4,7,Civilians,Firearms,1,24.2835,-88.5822
+2013,Europe,Turkey,Armed Assault,Shadow Front,6,17,23,Military,Chemical,1,48.689,23.0414
+2013,Middle East,Lebanon,Bombing/Explosion,Frontier Guard,27,8,35,Civilians,Vehicle,1,24.7594,47.2383
+2013,Central Asia,Kazakhstan,Hostage Taking,Unknown Cell,0,0,0,Police,Explosives,1,38.7392,74.7329
+2013,Americas,El Salvador,Bombing/Explosion,Eastern Resistance,20,2,22,Business,Chemical,1,23.2048,-84.0583
+2013,Africa,DRC,Hijacking,Grey Wolf Alliance,0,1,1,Government,Unknown,1,17.9857,14.9004
+2013,South Asia,Sri Lanka,Bombing/Explosion,Unknown Cell,49,10,59,Military,Unknown,1,33.1516,91.9794
+2013,Africa,Nigeria,Armed Assault,Grey Wolf Alliance,2,12,14,Military,Melee,1,6.4983,32.7419
+2013,Europe,Russia,Facility Attack,Eastern Resistance,4,3,7,Religious,Melee,1,44.8695,37.0905
+2013,Europe,Kosovo,Unarmed Assault,Silent Thunder,7,8,15,Business,Vehicle,1,43.9121,24.9721
+2013,South Asia,Sri Lanka,Bombing/Explosion,Crimson Path,4,7,11,Business,Firearms,1,32.6481,85.5034
+2013,Africa,Mozambique,Armed Assault,Eastern Resistance,5,17,22,Civilians,Vehicle,1,2.6725,22.5705
+2013,Americas,El Salvador,Armed Assault,Unknown Cell,0,14,14,Military,Chemical,1,8.9882,-81.5579
+2013,Southeast Asia,Indonesia,Unarmed Assault,Black Sun Collective,3,1,4,Business,Vehicle,1,12.5307,115.8191
+2013,Southeast Asia,Myanmar,Bombing/Explosion,Frontier Guard,20,76,96,Military,Unknown,1,18.0771,114.2371
+2013,South Asia,Bangladesh,Armed Assault,Liberation Front Alpha,0,4,4,Business,Firearms,0,11.3944,90.3501
+2013,Central Asia,Kyrgyzstan,Armed Assault,Iron Vanguard,4,27,31,Civilians,Unknown,0,44.7619,76.8044
+2013,Middle East,Iraq,Armed Assault,Red Crescent Brigade,26,7,33,Military,Explosives,1,35.7234,41.8872
+2013,Africa,Somalia,Armed Assault,Silent Thunder,11,9,20,Military,Melee,1,15.7064,25.2028
+2013,Africa,Libya,Bombing/Explosion,Iron Vanguard,13,8,21,Business,Chemical,1,17.014,15.2242
+2013,Americas,El Salvador,Bombing/Explosion,Free Sons Movement,4,9,13,Military,Chemical,1,18.9973,-82.9691
+2013,Middle East,Lebanon,Unarmed Assault,Eastern Resistance,2,0,2,Police,Vehicle,1,24.5119,61.5267
+2013,Europe,Russia,Hostage Taking,Frontier Guard,2,0,2,Business,Chemical,1,49.8154,38.2736
+2013,South Asia,Bangladesh,Unarmed Assault,Iron Vanguard,0,3,3,Government,Vehicle,0,22.7364,89.2545
+2013,Middle East,Syria,Bombing/Explosion,Unknown Cell,22,2,24,Religious,Melee,1,35.9179,39.2182
+2013,South Asia,Nepal,Bombing/Explosion,Frontier Guard,6,93,99,Business,Explosives,1,33.5728,79.874
+2013,Europe,Russia,Armed Assault,Unknown Cell,2,4,6,Civilians,Melee,1,43.363,28.0108
+2013,Europe,Bosnia,Unarmed Assault,Black Sun Collective,5,0,5,Government,Explosives,1,48.4062,21.5778
+2013,Middle East,Afghanistan,Hostage Taking,Red Crescent Brigade,0,0,0,Business,Unknown,1,25.0432,51.9869
+2013,Middle East,Lebanon,Assassination,Shadow Front,0,1,1,Religious,Melee,1,35.759,47.0205
+2013,Southeast Asia,Thailand,Assassination,Black Sun Collective,0,1,1,Police,Melee,1,13.7139,124.8096
+2013,Southeast Asia,Thailand,Bombing/Explosion,Desert Storm Faction,0,41,41,Civilians,Melee,1,14.3905,109.6649
+2013,Europe,Ukraine,Facility Attack,Red Crescent Brigade,2,4,6,Civilians,Melee,0,50.7498,15.5752
+2013,South Asia,India,Bombing/Explosion,Free Sons Movement,40,28,68,Civilians,Explosives,1,28.8379,86.693
+2013,Middle East,Lebanon,Bombing/Explosion,Storm Seekers,0,77,77,Police,Melee,0,32.027,40.5311
+2013,Southeast Asia,Thailand,Facility Attack,Unknown Cell,1,0,1,Religious,Explosives,1,5.9548,99.1614
+2013,Middle East,Syria,Bombing/Explosion,Shadow Front,26,18,44,Religious,Explosives,1,34.2907,42.7592
+2013,Middle East,Yemen,Armed Assault,Eastern Resistance,4,3,7,Business,Chemical,1,34.6282,56.5389
+2013,Southeast Asia,Myanmar,Armed Assault,Red Crescent Brigade,6,3,9,Business,Unknown,1,19.7051,96.838
+2014,Middle East,Syria,Hijacking,Silent Thunder,2,0,2,Civilians,Melee,1,31.046,64.209
+2014,Southeast Asia,Philippines,Bombing/Explosion,Free Sons Movement,38,22,60,Business,Melee,1,8.8712,106.84
+2014,Africa,Ethiopia,Armed Assault,Northern Covenant,14,14,28,Business,Melee,1,1.2737,21.0323
+2014,Middle East,Lebanon,Unarmed Assault,Iron Vanguard,3,1,4,Police,Unknown,1,33.8059,37.8749
+2014,Africa,Nigeria,Assassination,Shadow Front,0,0,0,Religious,Vehicle,1,14.1108,32.9155
+2014,Southeast Asia,Philippines,Armed Assault,Frontier Guard,15,20,35,Government,Melee,1,15.2936,123.7789
+2014,Southeast Asia,Thailand,Armed Assault,Eastern Resistance,4,1,5,Government,Unknown,0,11.2975,104.0074
+2014,Americas,Mexico,Bombing/Explosion,Eastern Resistance,8,26,34,Government,Firearms,1,12.0579,-78.3764
+2014,Central Asia,Tajikistan,Armed Assault,Black Sun Collective,4,18,22,Civilians,Vehicle,1,39.4208,76.2583
+2014,Central Asia,Kazakhstan,Facility Attack,Shadow Front,30,1,31,Police,Vehicle,0,44.3219,70.9913
+2014,Central Asia,Kyrgyzstan,Unarmed Assault,Black Sun Collective,1,2,3,Police,Firearms,1,39.8391,66.4227
+2014,South Asia,Nepal,Armed Assault,Free Sons Movement,2,2,4,Business,Explosives,1,12.1162,87.9147
+2014,Africa,Mali,Bombing/Explosion,Red Crescent Brigade,1,58,59,Police,Chemical,1,5.8214,40.3146
+2014,Southeast Asia,Philippines,Armed Assault,Desert Storm Faction,4,8,12,Military,Explosives,1,10.4958,109.301
+2014,South Asia,Bangladesh,Facility Attack,Liberation Front Alpha,12,11,23,Religious,Vehicle,1,32.8783,83.1562
+2014,Africa,Ethiopia,Assassination,Crimson Path,0,2,2,Religious,Chemical,1,2.0474,33.1922
+2014,Central Asia,Kazakhstan,Armed Assault,Northern Covenant,4,19,23,Government,Vehicle,1,42.4708,71.255
+2014,Southeast Asia,Myanmar,Unarmed Assault,Desert Storm Faction,3,5,8,Business,Melee,0,20.3313,109.2856
+2014,Africa,DRC,Assassination,Unknown Cell,0,4,4,Military,Firearms,0,14.5399,28.3128
+2014,Southeast Asia,Myanmar,Facility Attack,Grey Wolf Alliance,0,1,1,Civilians,Firearms,1,12.9858,95.5819
+2014,Europe,Russia,Assassination,Silent Thunder,0,0,0,Government,Explosives,1,45.5523,37.5108
+2014,Middle East,Yemen,Armed Assault,Free Sons Movement,2,21,23,Civilians,Firearms,0,27.5907,40.1494
+2014,Europe,Russia,Bombing/Explosion,Red Crescent Brigade,53,9,62,Government,Explosives,1,49.898,27.0638
+2014,Africa,Mozambique,Hijacking,Northern Covenant,0,0,0,Business,Chemical,0,0.0015,35.9433
+2014,Americas,Colombia,Bombing/Explosion,Desert Storm Faction,5,0,5,Military,Explosives,1,8.8989,-70.0288
+2014,Central Asia,Tajikistan,Armed Assault,Shadow Front,20,2,22,Religious,Explosives,1,40.0424,69.4416
+2014,Southeast Asia,Indonesia,Bombing/Explosion,Black Sun Collective,9,0,9,Business,Vehicle,1,21.8807,108.4006
+2014,South Asia,Bangladesh,Hostage Taking,Frontier Guard,1,1,2,Police,Explosives,0,19.8545,72.7467
+2014,Africa,Sudan,Assassination,Grey Wolf Alliance,5,4,9,Police,Melee,0,-1.9021,37.7676
+2014,Africa,Sudan,Armed Assault,Liberation Front Alpha,3,3,6,Police,Unknown,1,-4.3634,23.8963
+2014,South Asia,Nepal,Assassination,Shadow Front,2,1,3,Business,Explosives,0,16.4244,86.1558
+2014,Middle East,Lebanon,Hostage Taking,Iron Vanguard,0,0,0,Business,Firearms,1,36.0503,40.0574
+2014,South Asia,Sri Lanka,Bombing/Explosion,Crimson Path,1,20,21,Civilians,Melee,0,16.7921,77.9034
+2014,Europe,Kosovo,Armed Assault,Grey Wolf Alliance,6,16,22,Civilians,Chemical,1,49.4767,32.3647
+2014,Central Asia,Kazakhstan,Armed Assault,Shadow Front,1,8,9,Religious,Explosives,1,46.6867,68.4109
+2014,Southeast Asia,Philippines,Bombing/Explosion,Northern Covenant,3,2,5,Military,Unknown,1,5.7207,101.57
+2014,Central Asia,Kazakhstan,Armed Assault,Grey Wolf Alliance,4,2,6,Government,Melee,1,44.3433,70.9371
+2014,Europe,Ukraine,Assassination,Shadow Front,0,1,1,Military,Unknown,1,40.8155,20.0031
+2014,South Asia,Bangladesh,Bombing/Explosion,Free Sons Movement,5,2,7,Military,Unknown,1,30.9228,80.2196
+2014,Europe,Russia,Bombing/Explosion,Grey Wolf Alliance,1,5,6,Government,Explosives,0,48.931,22.0354
+2014,Americas,El Salvador,Bombing/Explosion,Unknown Cell,0,26,26,Government,Firearms,1,10.1256,-85.1057
+2014,Europe,Ukraine,Assassination,Grey Wolf Alliance,0,0,0,Police,Vehicle,1,47.2404,31.2852
+2014,South Asia,Sri Lanka,Bombing/Explosion,Northern Covenant,7,29,36,Business,Vehicle,1,27.3131,88.9816
+2014,Southeast Asia,Thailand,Facility Attack,Eastern Resistance,10,10,20,Civilians,Unknown,1,15.0854,104.1011
+2014,Southeast Asia,Myanmar,Assassination,Free Sons Movement,2,1,3,Military,Melee,1,5.4048,95.3708
+2014,Central Asia,Tajikistan,Bombing/Explosion,Frontier Guard,21,21,42,Military,Unknown,1,41.2736,79.7634
+2014,Europe,Kosovo,Assassination,Iron Vanguard,0,0,0,Business,Melee,0,48.0043,38.4456
+2014,Middle East,Iraq,Facility Attack,Shadow Front,1,18,19,Government,Chemical,1,24.1458,43.9527
+2014,Europe,Kosovo,Hostage Taking,Black Sun Collective,0,1,1,Religious,Firearms,1,44.4166,31.1443
+2014,Africa,Somalia,Bombing/Explosion,Desert Storm Faction,7,14,21,Military,Unknown,1,14.2611,38.7527
+2015,Europe,Russia,Bombing/Explosion,Unknown Cell,2,5,7,Police,Unknown,1,48.1819,15.7592
+2015,South Asia,India,Bombing/Explosion,Grey Wolf Alliance,31,23,54,Government,Unknown,1,30.6146,81.9146
+2015,Africa,Nigeria,Hostage Taking,Black Sun Collective,0,2,2,Religious,Vehicle,1,12.295,16.8952
+2015,Europe,Ukraine,Bombing/Explosion,Frontier Guard,5,100,105,Civilians,Vehicle,1,44.9491,39.3227
+2015,Southeast Asia,Philippines,Unarmed Assault,Desert Storm Faction,1,1,2,Civilians,Melee,0,17.2208,101.081
+2015,Southeast Asia,Thailand,Hijacking,Storm Seekers,0,0,0,Civilians,Firearms,1,12.6158,95.0585
+2015,Central Asia,Kyrgyzstan,Facility Attack,Silent Thunder,0,7,7,Religious,Vehicle,1,45.0295,76.8795
+2015,Middle East,Afghanistan,Armed Assault,Liberation Front Alpha,16,18,34,Religious,Chemical,1,34.6693,51.7931
+2015,Africa,Sudan,Armed Assault,Eastern Resistance,1,9,10,Government,Unknown,1,-0.6509,22.8569
+2015,Central Asia,Tajikistan,Bombing/Explosion,Liberation Front Alpha,2,1,3,Police,Unknown,1,42.9451,73.134
+2015,Middle East,Pakistan,Bombing/Explosion,Crimson Path,19,20,39,Business,Firearms,1,28.6627,49.5301
+2015,Central Asia,Kyrgyzstan,Bombing/Explosion,Red Crescent Brigade,1,0,1,Business,Explosives,1,47.183,79.7407
+2015,Africa,Sudan,Facility Attack,Silent Thunder,22,0,22,Police,Chemical,1,15.4065,16.586
+2015,Middle East,Yemen,Unarmed Assault,Desert Storm Faction,1,3,4,Business,Chemical,1,30.7544,52.6885
+2015,Southeast Asia,Myanmar,Hostage Taking,Silent Thunder,0,0,0,Government,Unknown,0,10.6933,98.5076
+2015,Americas,El Salvador,Armed Assault,Crimson Path,3,17,20,Civilians,Vehicle,1,12.0227,-79.8
+2015,South Asia,Bangladesh,Bombing/Explosion,Crimson Path,12,27,39,Business,Unknown,0,12.8966,68.0143
+2015,Central Asia,Kazakhstan,Armed Assault,Desert Storm Faction,33,17,50,Military,Explosives,1,41.0656,76.337
+2015,Americas,Colombia,Unarmed Assault,Red Crescent Brigade,1,2,3,Religious,Firearms,1,5.6219,-86.9731
+2015,Middle East,Iraq,Bombing/Explosion,Silent Thunder,17,29,46,Business,Explosives,1,28.6477,47.687
+2015,Africa,DRC,Armed Assault,Storm Seekers,5,12,17,Business,Firearms,1,10.4814,39.4258
+2015,Americas,Colombia,Assassination,Eastern Resistance,0,1,1,Police,Explosives,1,12.0299,-83.6054
+2015,Central Asia,Kyrgyzstan,Hostage Taking,Storm Seekers,0,0,0,Police,Vehicle,1,44.2023,70.2658
+2015,Middle East,Yemen,Bombing/Explosion,Iron Vanguard,1,24,25,Civilians,Vehicle,1,25.1288,43.3125
+2015,South Asia,India,Armed Assault,Liberation Front Alpha,5,3,8,Government,Unknown,1,23.6938,79.2627
+2015,Americas,El Salvador,Bombing/Explosion,Storm Seekers,11,18,29,Civilians,Vehicle,1,18.6765,-75.1643
+2015,Americas,El Salvador,Bombing/Explosion,Unknown Cell,3,28,31,Business,Firearms,1,18.9426,-80.2955
+2015,Southeast Asia,Philippines,Bombing/Explosion,Desert Storm Faction,27,42,69,Military,Explosives,1,13.3487,122.0679
+2015,Middle East,Afghanistan,Assassination,Northern Covenant,1,2,3,Police,Vehicle,1,26.0124,60.2839
+2015,Europe,Russia,Bombing/Explosion,Shadow Front,1,9,10,Government,Unknown,1,50.8649,34.3116
+2015,South Asia,Sri Lanka,Armed Assault,Crimson Path,0,39,39,Religious,Unknown,1,20.8271,85.1319
+2015,Middle East,Iraq,Bombing/Explosion,Eastern Resistance,2,4,6,Police,Firearms,1,36.3067,52.3204
+2015,Africa,Ethiopia,Bombing/Explosion,Black Sun Collective,39,77,116,Police,Chemical,0,4.2072,27.3915
+2015,Middle East,Afghanistan,Armed Assault,Storm Seekers,11,0,11,Government,Unknown,1,24.8473,43.6205
+2015,Europe,Kosovo,Armed Assault,Red Crescent Brigade,0,5,5,Civilians,Firearms,0,50.5064,18.0253
+2015,Americas,Mexico,Assassination,Eastern Resistance,0,0,0,Civilians,Vehicle,0,15.9184,-76.0658
+2015,Central Asia,Kyrgyzstan,Bombing/Explosion,Desert Storm Faction,11,77,88,Military,Vehicle,1,38.3976,68.0367
+2015,Southeast Asia,Indonesia,Bombing/Explosion,Desert Storm Faction,7,29,36,Business,Explosives,1,5.2068,110.7369
+2015,Americas,Colombia,Armed Assault,Northern Covenant,8,3,11,Military,Firearms,1,9.8735,-77.9903
+2015,Southeast Asia,Indonesia,Armed Assault,Grey Wolf Alliance,8,2,10,Civilians,Firearms,1,11.5936,114.0019
+2015,South Asia,Sri Lanka,Facility Attack,Iron Vanguard,0,9,9,Business,Firearms,0,9.7678,80.3212
+2015,South Asia,Sri Lanka,Assassination,Desert Storm Faction,0,17,17,Police,Vehicle,0,17.4048,73.4082
+2015,Middle East,Yemen,Bombing/Explosion,Unknown Cell,3,24,27,Government,Melee,0,24.3596,55.478
+2015,Europe,Kosovo,Assassination,Crimson Path,1,0,1,Business,Firearms,0,41.5279,30.3724
+2015,Europe,Russia,Bombing/Explosion,Shadow Front,0,26,26,Police,Chemical,1,49.2772,25.8185
+2015,Middle East,Pakistan,Bombing/Explosion,Desert Storm Faction,29,49,78,Police,Firearms,1,24.5193,44.0443
+2015,Southeast Asia,Thailand,Armed Assault,Eastern Resistance,5,18,23,Business,Chemical,1,20.6286,120.6614
+2015,Europe,Kosovo,Hostage Taking,Frontier Guard,1,1,2,Religious,Unknown,1,46.7223,32.0546
+2015,Central Asia,Kyrgyzstan,Bombing/Explosion,Grey Wolf Alliance,12,27,39,Business,Melee,1,42.8968,70.1362
+2015,Southeast Asia,Philippines,Bombing/Explosion,Northern Covenant,29,13,42,Government,Melee,0,19.8708,112.833
+2015,Africa,Mali,Assassination,Storm Seekers,3,2,5,Police,Melee,0,-0.2038,20.72
+2015,Africa,Libya,Assassination,Red Crescent Brigade,0,0,0,Religious,Unknown,0,14.2079,38.4976
+2015,Africa,Mali,Assassination,Eastern Resistance,0,2,2,Business,Melee,0,8.8226,16.5429
+2015,Americas,Mexico,Bombing/Explosion,Crimson Path,32,3,35,Religious,Unknown,0,17.7719,-84.8567
+2015,Central Asia,Tajikistan,Bombing/Explosion,Silent Thunder,28,53,81,Government,Unknown,1,41.75,70.8745
+2015,Americas,El Salvador,Armed Assault,Black Sun Collective,1,22,23,Business,Firearms,1,6.441,-86.8893
+2015,Europe,Ukraine,Bombing/Explosion,Frontier Guard,85,35,120,Government,Melee,0,45.4571,39.7713
+2015,Americas,Honduras,Armed Assault,Frontier Guard,12,62,74,Civilians,Melee,1,13.5541,-65.4576
+2016,Europe,Kosovo,Armed Assault,Shadow Front,7,4,11,Civilians,Firearms,1,44.336,35.0325
+2016,Central Asia,Kazakhstan,Bombing/Explosion,Silent Thunder,32,25,57,Religious,Chemical,1,39.2742,66.4384
+2016,Europe,Russia,Bombing/Explosion,Frontier Guard,15,7,22,Religious,Unknown,1,40.1183,23.4401
+2016,Africa,Libya,Armed Assault,Unknown Cell,11,1,12,Business,Firearms,1,10.0915,34.0552
+2016,Africa,Mali,Bombing/Explosion,Free Sons Movement,46,10,56,Police,Chemical,1,14.0588,15.499
+2016,South Asia,India,Unarmed Assault,Crimson Path,0,2,2,Police,Explosives,1,23.9674,91.3781
+2016,Middle East,Iraq,Bombing/Explosion,Red Crescent Brigade,0,31,31,Military,Vehicle,1,29.9736,40.8036
+2016,Africa,Somalia,Bombing/Explosion,Black Sun Collective,41,49,90,Police,Unknown,1,9.4909,29.1909
+2016,South Asia,Sri Lanka,Bombing/Explosion,Unknown Cell,2,3,5,Police,Explosives,1,19.5475,71.6093
+2016,Central Asia,Kyrgyzstan,Hostage Taking,Eastern Resistance,1,3,4,Police,Explosives,1,40.7172,78.2271
+2016,Central Asia,Kyrgyzstan,Armed Assault,Frontier Guard,4,8,12,Military,Explosives,1,44.1564,77.5733
+2016,Africa,Sudan,Hostage Taking,Black Sun Collective,0,3,3,Military,Chemical,0,12.082,15.3882
+2016,South Asia,Nepal,Armed Assault,Frontier Guard,8,4,12,Police,Melee,1,15.5576,73.5415
+2016,Middle East,Lebanon,Unarmed Assault,Shadow Front,1,9,10,Police,Firearms,1,24.841,56.679
+2016,Americas,Peru,Armed Assault,Iron Vanguard,0,4,4,Police,Explosives,1,19.4836,-67.2703
+2016,Africa,DRC,Bombing/Explosion,Northern Covenant,14,4,18,Business,Melee,0,1.4965,15.0591
+2016,Southeast Asia,Myanmar,Facility Attack,Unknown Cell,0,12,12,Military,Vehicle,1,17.9321,97.6992
+2016,Middle East,Pakistan,Assassination,Red Crescent Brigade,4,5,9,Government,Explosives,1,30.8283,43.3992
+2016,South Asia,Bangladesh,Bombing/Explosion,Northern Covenant,41,21,62,Civilians,Firearms,1,16.1016,80.4922
+2016,Americas,Colombia,Assassination,Unknown Cell,3,1,4,Military,Unknown,1,15.9588,-66.4496
+2016,South Asia,India,Facility Attack,Desert Storm Faction,5,33,38,Military,Firearms,1,10.0032,86.5481
+2016,Americas,Colombia,Hostage Taking,Unknown Cell,0,0,0,Military,Chemical,0,19.4642,-86.182
+2016,South Asia,India,Armed Assault,Grey Wolf Alliance,5,1,6,Civilians,Firearms,1,21.3444,68.4972
+2016,Europe,Russia,Bombing/Explosion,Free Sons Movement,1,47,48,Government,Vehicle,1,41.5875,36.5422
+2016,Americas,Peru,Armed Assault,Storm Seekers,30,6,36,Business,Vehicle,1,7.1975,-83.7946
+2016,Central Asia,Kazakhstan,Bombing/Explosion,Eastern Resistance,1,1,2,Religious,Vehicle,1,40.872,72.9334
+2016,Central Asia,Tajikistan,Assassination,Grey Wolf Alliance,4,1,5,Government,Unknown,1,43.2505,79.4316
+2016,Central Asia,Kyrgyzstan,Assassination,Red Crescent Brigade,0,1,1,Business,Unknown,1,40.5143,79.0531
+2016,Central Asia,Tajikistan,Bombing/Explosion,Desert Storm Faction,6,18,24,Civilians,Explosives,1,43.998,70.5125
+2016,Americas,El Salvador,Armed Assault,Shadow Front,15,10,25,Military,Melee,1,11.2909,-85.0324
+2016,Europe,Russia,Armed Assault,Desert Storm Faction,9,5,14,Police,Chemical,1,48.9907,31.2268
+2016,South Asia,Sri Lanka,Bombing/Explosion,Silent Thunder,24,29,53,Police,Firearms,0,14.5759,77.5817
+2016,Africa,Mali,Armed Assault,Storm Seekers,1,10,11,Civilians,Vehicle,0,1.1342,14.6572
+2016,Africa,DRC,Bombing/Explosion,Iron Vanguard,5,44,49,Business,Vehicle,0,17.1762,37.9076
+2016,Africa,DRC,Facility Attack,Eastern Resistance,2,39,41,Civilians,Chemical,1,18.3494,37.7961
+2016,Africa,DRC,Bombing/Explosion,Silent Thunder,1,40,41,Business,Chemical,1,19.8025,14.67
+2016,Africa,Nigeria,Bombing/Explosion,Liberation Front Alpha,20,39,59,Business,Firearms,1,4.2817,24.3475
+2016,Europe,Bosnia,Assassination,Unknown Cell,0,2,2,Police,Melee,1,49.6147,29.6405
+2016,Central Asia,Tajikistan,Armed Assault,Frontier Guard,12,3,15,Business,Chemical,1,45.7931,75.93
+2016,Middle East,Syria,Unarmed Assault,Storm Seekers,0,3,3,Government,Vehicle,1,33.2855,57.212
+2016,South Asia,Sri Lanka,Hostage Taking,Shadow Front,0,0,0,Civilians,Firearms,1,17.9811,77.4656
+2016,Africa,Nigeria,Unarmed Assault,Unknown Cell,1,1,2,Military,Firearms,1,-0.1584,35.5831
+2016,Europe,Turkey,Assassination,Desert Storm Faction,2,3,5,Religious,Firearms,1,40.7947,36.471
+2016,Europe,Ukraine,Bombing/Explosion,Eastern Resistance,32,100,132,Government,Firearms,0,45.9218,16.9992
+2016,Americas,Peru,Facility Attack,Silent Thunder,3,0,3,Government,Melee,1,15.9585,-67.4669
+2016,Southeast Asia,Thailand,Armed Assault,Desert Storm Faction,0,4,4,Business,Unknown,1,17.1816,110.6014
+2016,Central Asia,Kazakhstan,Bombing/Explosion,Desert Storm Faction,48,19,67,Police,Explosives,1,40.7219,79.0991
+2016,Southeast Asia,Indonesia,Bombing/Explosion,Red Crescent Brigade,5,13,18,Business,Chemical,1,19.6731,98.1949
+2016,South Asia,Sri Lanka,Unarmed Assault,Grey Wolf Alliance,2,4,6,Business,Firearms,1,11.9847,70.3663
+2016,Africa,Ethiopia,Hostage Taking,Frontier Guard,0,5,5,Police,Vehicle,1,2.4771,17.7598
+2016,Southeast Asia,Philippines,Hostage Taking,Eastern Resistance,0,0,0,Civilians,Explosives,1,18.856,99.6214
+2016,Africa,DRC,Bombing/Explosion,Black Sun Collective,40,2,42,Business,Firearms,1,19.945,39.6907
+2016,South Asia,Bangladesh,Armed Assault,Red Crescent Brigade,19,68,87,Business,Firearms,1,23.8749,71.9575
+2016,Africa,Ethiopia,Facility Attack,Grey Wolf Alliance,6,11,17,Police,Explosives,1,14.9049,10.2717
+2016,Europe,Ukraine,Unarmed Assault,Red Crescent Brigade,1,12,13,Civilians,Unknown,1,51.902,15.0522
+2016,South Asia,Nepal,Hijacking,Storm Seekers,0,1,1,Business,Melee,0,31.8702,84.7996
+2016,Middle East,Iraq,Bombing/Explosion,Shadow Front,46,99,145,Business,Melee,1,24.5062,52.903
+2016,Middle East,Syria,Facility Attack,Desert Storm Faction,8,2,10,Business,Vehicle,0,30.3747,43.7526
+2016,Central Asia,Kyrgyzstan,Bombing/Explosion,Desert Storm Faction,61,26,87,Military,Chemical,1,38.6494,74.0925
+2016,Southeast Asia,Philippines,Armed Assault,Storm Seekers,21,13,34,Military,Firearms,1,5.5446,120.5647
+2016,Southeast Asia,Indonesia,Facility Attack,Free Sons Movement,1,3,4,Police,Melee,0,10.2088,114.6047
+2016,Europe,Russia,Facility Attack,Silent Thunder,3,11,14,Military,Melee,1,42.5266,26.5322
+2016,Middle East,Iraq,Bombing/Explosion,Silent Thunder,6,23,29,Civilians,Explosives,1,36.9769,39.6572
+2016,Africa,DRC,Assassination,Unknown Cell,0,5,5,Religious,Chemical,1,7.0399,23.1162
+2016,Southeast Asia,Thailand,Unarmed Assault,Black Sun Collective,1,0,1,Military,Firearms,0,16.1551,105.9263
+2017,Middle East,Iraq,Bombing/Explosion,Black Sun Collective,3,1,4,Religious,Melee,1,34.5627,49.4416
+2017,Central Asia,Tajikistan,Armed Assault,Unknown Cell,5,1,6,Business,Melee,0,45.0738,74.8761
+2017,Central Asia,Kyrgyzstan,Bombing/Explosion,Liberation Front Alpha,2,76,78,Military,Firearms,0,42.158,72.3034
+2017,Middle East,Syria,Bombing/Explosion,Red Crescent Brigade,37,16,53,Police,Chemical,1,27.6122,41.8654
+2017,Middle East,Iraq,Assassination,Iron Vanguard,8,0,8,Police,Unknown,1,31.9934,45.7782
+2017,Central Asia,Kyrgyzstan,Bombing/Explosion,Grey Wolf Alliance,17,25,42,Government,Firearms,1,44.5867,76.0482
+2017,Americas,El Salvador,Unarmed Assault,Silent Thunder,1,2,3,Civilians,Chemical,1,17.2445,-79.1266
+2017,Europe,Turkey,Armed Assault,Shadow Front,4,6,10,Police,Chemical,0,45.4772,22.1121
+2017,Americas,Colombia,Armed Assault,Northern Covenant,10,1,11,Government,Vehicle,0,23.2821,-74.781
+2017,Central Asia,Kyrgyzstan,Bombing/Explosion,Northern Covenant,3,5,8,Religious,Melee,1,44.5205,65.5807
+2017,Americas,Peru,Armed Assault,Eastern Resistance,2,8,10,Military,Explosives,1,5.8109,-66.1998
+2017,Europe,Ukraine,Armed Assault,Grey Wolf Alliance,0,24,24,Police,Explosives,1,43.2836,35.3606
+2017,Middle East,Pakistan,Facility Attack,Frontier Guard,1,1,2,Religious,Unknown,0,32.3203,44.8799
+2017,Middle East,Yemen,Hijacking,Free Sons Movement,1,0,1,Military,Firearms,1,31.1807,58.6106
+2017,Europe,Turkey,Hostage Taking,Iron Vanguard,0,1,1,Government,Firearms,1,42.4031,32.1271
+2017,Southeast Asia,Myanmar,Unarmed Assault,Red Crescent Brigade,0,0,0,Religious,Explosives,1,20.8284,116.9305
+2017,Africa,Libya,Armed Assault,Unknown Cell,3,1,4,Government,Vehicle,1,-0.9023,13.1233
+2017,Africa,Somalia,Bombing/Explosion,Northern Covenant,2,7,9,Civilians,Firearms,0,16.3258,10.1065
+2017,Central Asia,Tajikistan,Hijacking,Free Sons Movement,0,1,1,Business,Explosives,0,41.3753,72.5069
+2017,Europe,Turkey,Bombing/Explosion,Iron Vanguard,20,24,44,Government,Unknown,1,49.426,23.9065
+2017,South Asia,Bangladesh,Facility Attack,Frontier Guard,0,1,1,Civilians,Chemical,0,26.8582,89.8621
+2017,Middle East,Syria,Bombing/Explosion,Unknown Cell,37,22,59,Religious,Firearms,1,32.9639,41.6309
+2017,Africa,Nigeria,Armed Assault,Crimson Path,16,5,21,Police,Vehicle,1,5.81,35.8328
+2017,South Asia,Sri Lanka,Bombing/Explosion,Silent Thunder,17,20,37,Military,Unknown,1,23.2452,84.7365
+2017,Central Asia,Kyrgyzstan,Unarmed Assault,Liberation Front Alpha,1,2,3,Military,Vehicle,1,42.5785,69.8332
+2017,Middle East,Iraq,Armed Assault,Liberation Front Alpha,5,2,7,Religious,Explosives,1,24.2226,55.2728
+2017,Africa,Ethiopia,Hostage Taking,Free Sons Movement,0,2,2,Civilians,Explosives,0,16.5502,12.7272
+2017,Americas,Honduras,Assassination,Grey Wolf Alliance,4,1,5,Religious,Explosives,1,14.4686,-76.1604
+2017,Central Asia,Tajikistan,Bombing/Explosion,Grey Wolf Alliance,6,5,11,Police,Explosives,1,44.3808,68.6906
+2017,Africa,Nigeria,Facility Attack,Silent Thunder,5,2,7,Government,Explosives,0,11.6206,41.9489
+2017,Central Asia,Tajikistan,Hijacking,Grey Wolf Alliance,4,0,4,Government,Melee,1,42.1203,66.116
+2017,Middle East,Yemen,Armed Assault,Red Crescent Brigade,4,11,15,Religious,Melee,1,24.3399,44.2695
+2017,Middle East,Syria,Unarmed Assault,Desert Storm Faction,4,2,6,Government,Chemical,1,25.3016,39.2879
+2017,Africa,Somalia,Bombing/Explosion,Desert Storm Faction,9,146,155,Business,Firearms,1,-3.029,11.5705
+2017,Central Asia,Kyrgyzstan,Unarmed Assault,Silent Thunder,0,10,10,Business,Explosives,0,43.4894,73.6604
+2017,Africa,Libya,Bombing/Explosion,Black Sun Collective,2,41,43,Civilians,Vehicle,1,-3.9816,39.4028
+2017,Southeast Asia,Thailand,Bombing/Explosion,Shadow Front,17,11,28,Civilians,Explosives,1,6.6034,123.3409
+2017,Europe,Ukraine,Armed Assault,Grey Wolf Alliance,16,0,16,Military,Melee,1,41.2827,18.9702
+2017,Middle East,Afghanistan,Bombing/Explosion,Crimson Path,4,22,26,Civilians,Unknown,0,33.1091,39.0123
+2017,Europe,Russia,Hostage Taking,Grey Wolf Alliance,0,1,1,Military,Firearms,1,51.4875,36.5956
+2017,Europe,Ukraine,Assassination,Eastern Resistance,0,0,0,Business,Melee,0,48.7582,36.046
+2017,South Asia,India,Armed Assault,Liberation Front Alpha,1,2,3,Military,Chemical,1,13.0043,80.6667
+2017,Europe,Turkey,Armed Assault,Iron Vanguard,4,16,20,Religious,Chemical,1,42.9884,36.4035
+2017,Europe,Bosnia,Assassination,Silent Thunder,4,5,9,Government,Vehicle,1,41.3753,29.7684
+2017,Southeast Asia,Myanmar,Assassination,Silent Thunder,0,1,1,Civilians,Unknown,0,21.442,102.4634
+2017,South Asia,Sri Lanka,Hostage Taking,Desert Storm Faction,0,0,0,Civilians,Unknown,1,18.2627,91.1653
+2017,Americas,Colombia,Assassination,Liberation Front Alpha,1,0,1,Military,Unknown,1,18.9245,-79.6661
+2017,Europe,Russia,Bombing/Explosion,Black Sun Collective,4,73,77,Police,Unknown,1,50.4256,23.1278
+2017,Southeast Asia,Thailand,Armed Assault,Northern Covenant,5,7,12,Religious,Firearms,0,7.4806,106.6763
+2017,Central Asia,Kyrgyzstan,Bombing/Explosion,Black Sun Collective,0,7,7,Police,Vehicle,0,42.3745,68.7817
+2017,South Asia,India,Facility Attack,Iron Vanguard,10,1,11,Government,Explosives,1,21.6313,72.8922
+2017,South Asia,Nepal,Bombing/Explosion,Iron Vanguard,9,0,9,Business,Vehicle,1,20.3041,86.3032
+2017,Europe,Bosnia,Armed Assault,Eastern Resistance,5,0,5,Police,Firearms,1,48.2612,21.8904
+2017,Africa,Sudan,Armed Assault,Eastern Resistance,13,20,33,Police,Vehicle,0,-4.5714,17.5015
+2017,South Asia,Sri Lanka,Bombing/Explosion,Free Sons Movement,27,8,35,Religious,Unknown,1,14.6251,70.372
+2017,Americas,Peru,Hostage Taking,Unknown Cell,1,1,2,Government,Explosives,1,24.1431,-87.322
+2017,Africa,Mali,Hostage Taking,Unknown Cell,0,1,1,Business,Unknown,0,16.3963,28.3812
+2017,South Asia,Bangladesh,Hijacking,Crimson Path,0,0,0,Business,Explosives,1,8.5088,86.4438
+2017,Europe,Turkey,Armed Assault,Crimson Path,10,3,13,Police,Vehicle,1,41.3016,22.6585
+2017,Africa,Libya,Assassination,Frontier Guard,1,1,2,Government,Unknown,1,16.0478,29.2503
+2017,Middle East,Yemen,Armed Assault,Liberation Front Alpha,15,36,51,Police,Firearms,0,28.2213,60.8761
+2018,Americas,Peru,Armed Assault,Frontier Guard,17,3,20,Military,Vehicle,0,5.3286,-88.0933
+2018,South Asia,Bangladesh,Facility Attack,Iron Vanguard,1,4,5,Religious,Firearms,1,21.9095,85.7268
+2018,Americas,El Salvador,Hostage Taking,Desert Storm Faction,0,0,0,Civilians,Firearms,0,9.3694,-87.5786
+2018,Americas,El Salvador,Bombing/Explosion,Iron Vanguard,14,19,33,Government,Melee,1,22.796,-67.6724
+2018,South Asia,India,Bombing/Explosion,Crimson Path,93,6,99,Military,Melee,0,21.9592,83.0986
+2018,Middle East,Yemen,Assassination,Unknown Cell,0,0,0,Police,Chemical,1,33.8452,57.1313
+2018,Central Asia,Kazakhstan,Facility Attack,Frontier Guard,12,11,23,Government,Melee,1,43.037,68.4399
+2018,Middle East,Yemen,Assassination,Silent Thunder,3,6,9,Civilians,Melee,0,31.2317,40.7645
+2018,Southeast Asia,Philippines,Assassination,Silent Thunder,1,1,2,Military,Firearms,1,7.6682,117.1243
+2018,South Asia,Sri Lanka,Bombing/Explosion,Red Crescent Brigade,7,24,31,Civilians,Melee,1,25.2032,73.415
+2018,Middle East,Lebanon,Unarmed Assault,Free Sons Movement,1,2,3,Religious,Firearms,1,33.8357,58.0717
+2018,Europe,Russia,Assassination,Grey Wolf Alliance,5,12,17,Military,Firearms,1,40.0915,24.3634
+2018,Southeast Asia,Indonesia,Bombing/Explosion,Northern Covenant,28,38,66,Religious,Firearms,1,7.6136,98.2532
+2018,Central Asia,Kazakhstan,Bombing/Explosion,Unknown Cell,20,4,24,Business,Chemical,1,46.8383,72.963
+2018,Americas,Peru,Unarmed Assault,Northern Covenant,0,5,5,Police,Firearms,0,16.8854,-73.4871
+2018,Europe,Russia,Assassination,Silent Thunder,2,0,2,Civilians,Vehicle,1,43.1227,20.3537
+2018,South Asia,Bangladesh,Bombing/Explosion,Crimson Path,47,2,49,Religious,Chemical,1,10.3666,81.9537
+2018,South Asia,India,Bombing/Explosion,Black Sun Collective,6,30,36,Religious,Unknown,1,30.2866,81.4416
+2018,Americas,Mexico,Bombing/Explosion,Unknown Cell,3,1,4,Civilians,Firearms,1,9.636,-86.8393
+2018,Americas,Honduras,Armed Assault,Grey Wolf Alliance,3,17,20,Civilians,Explosives,1,16.0455,-81.5222
+2018,Africa,Libya,Armed Assault,Free Sons Movement,4,12,16,Military,Firearms,0,-3.8995,25.6963
+2018,South Asia,Sri Lanka,Assassination,Silent Thunder,1,0,1,Religious,Explosives,1,24.2458,69.7144
+2018,Americas,Colombia,Hostage Taking,Liberation Front Alpha,4,0,4,Civilians,Melee,1,18.6268,-65.1812
+2018,Middle East,Iraq,Facility Attack,Iron Vanguard,17,5,22,Government,Unknown,1,35.2175,56.9696
+2018,South Asia,India,Bombing/Explosion,Unknown Cell,59,3,62,Business,Firearms,1,28.9397,78.5355
+2018,Southeast Asia,Thailand,Bombing/Explosion,Liberation Front Alpha,12,5,17,Government,Unknown,1,15.2828,116.5768
+2018,Europe,Ukraine,Facility Attack,Iron Vanguard,0,7,7,Business,Chemical,1,49.0304,21.5201
+2018,Central Asia,Kazakhstan,Assassination,Crimson Path,0,2,2,Civilians,Chemical,1,40.8718,72.8333
+2018,South Asia,Sri Lanka,Facility Attack,Eastern Resistance,0,3,3,Civilians,Melee,1,28.4961,75.5387
+2018,Americas,El Salvador,Armed Assault,Northern Covenant,12,6,18,Police,Explosives,1,5.0559,-83.4679
+2018,Africa,DRC,Bombing/Explosion,Frontier Guard,17,28,45,Civilians,Unknown,1,8.2509,22.9659
+2018,South Asia,Bangladesh,Bombing/Explosion,Shadow Front,33,10,43,Government,Melee,1,33.7574,76.8696
+2018,Africa,Sudan,Facility Attack,Eastern Resistance,5,24,29,Civilians,Vehicle,1,8.8136,11.26
+2018,Europe,Russia,Bombing/Explosion,Crimson Path,23,18,41,Civilians,Chemical,1,46.6991,30.4523
+2018,Central Asia,Kyrgyzstan,Hostage Taking,Shadow Front,0,2,2,Civilians,Chemical,1,38.6451,69.0172
+2018,Central Asia,Tajikistan,Bombing/Explosion,Shadow Front,17,0,17,Government,Chemical,1,43.5579,72.9393
+2018,Southeast Asia,Thailand,Hijacking,Unknown Cell,0,2,2,Military,Unknown,1,21.1236,109.9534
+2018,Americas,Mexico,Armed Assault,Red Crescent Brigade,2,15,17,Religious,Firearms,1,6.2833,-83.305
+2018,Middle East,Syria,Assassination,Storm Seekers,0,2,2,Religious,Chemical,0,33.4379,51.13
+2018,Southeast Asia,Thailand,Armed Assault,Red Crescent Brigade,0,2,2,Government,Firearms,1,19.9506,117.6944
+2018,Southeast Asia,Indonesia,Bombing/Explosion,Shadow Front,56,59,115,Police,Melee,0,9.2814,108.859
+2018,Africa,Ethiopia,Bombing/Explosion,Black Sun Collective,19,16,35,Military,Melee,1,16.6568,11.3542
+2019,Africa,Sudan,Bombing/Explosion,Black Sun Collective,20,26,46,Government,Unknown,1,-2.8848,22.0727
+2019,Central Asia,Tajikistan,Armed Assault,Silent Thunder,6,0,6,Civilians,Chemical,1,47.1805,76.5806
+2019,Africa,Mali,Assassination,Silent Thunder,2,4,6,Military,Chemical,1,15.7604,18.8139
+2019,Europe,Turkey,Facility Attack,Storm Seekers,25,0,25,Civilians,Explosives,1,44.0791,22.2424
+2019,Central Asia,Tajikistan,Bombing/Explosion,Free Sons Movement,23,22,45,Business,Firearms,1,45.6505,70.326
+2019,Africa,DRC,Unarmed Assault,Iron Vanguard,1,0,1,Civilians,Explosives,1,0.547,14.5253
+2019,Middle East,Lebanon,Assassination,Shadow Front,1,1,2,Business,Chemical,1,35.4218,39.5896
+2019,South Asia,Sri Lanka,Assassination,Storm Seekers,0,3,3,Government,Unknown,0,20.8071,71.233
+2019,South Asia,India,Unarmed Assault,Frontier Guard,3,4,7,Business,Explosives,0,32.8615,90.0351
+2019,Europe,Bosnia,Hijacking,Grey Wolf Alliance,2,0,2,Religious,Explosives,1,46.0082,25.1799
+2019,Central Asia,Kyrgyzstan,Unarmed Assault,Crimson Path,0,4,4,Civilians,Explosives,0,40.087,65.3985
+2019,Americas,Colombia,Armed Assault,Unknown Cell,1,4,5,Civilians,Vehicle,1,7.5581,-75.0701
+2019,South Asia,Bangladesh,Armed Assault,Frontier Guard,2,0,2,Civilians,Unknown,1,14.8611,74.8076
+2019,Southeast Asia,Indonesia,Unarmed Assault,Liberation Front Alpha,5,1,6,Military,Chemical,1,11.6599,113.2923
+2019,Middle East,Iraq,Armed Assault,Frontier Guard,5,0,5,Government,Explosives,1,35.3209,54.5394
+2019,Middle East,Pakistan,Bombing/Explosion,Frontier Guard,21,10,31,Military,Firearms,1,30.2055,60.3039
+2019,Central Asia,Tajikistan,Bombing/Explosion,Red Crescent Brigade,24,14,38,Civilians,Unknown,1,40.1559,74.0295
+2019,South Asia,Bangladesh,Bombing/Explosion,Silent Thunder,3,19,22,Religious,Melee,1,10.3978,90.4107
+2019,Central Asia,Kyrgyzstan,Bombing/Explosion,Liberation Front Alpha,2,15,17,Religious,Chemical,1,47.4067,65.6428
+2019,Middle East,Afghanistan,Bombing/Explosion,Grey Wolf Alliance,6,65,71,Religious,Vehicle,1,36.5617,57.569
+2019,Middle East,Iraq,Hostage Taking,Northern Covenant,0,1,1,Civilians,Vehicle,0,24.2336,37.2226
+2019,Americas,Mexico,Armed Assault,Shadow Front,1,4,5,Police,Vehicle,0,6.7676,-68.2191
+2019,South Asia,Bangladesh,Bombing/Explosion,Desert Storm Faction,9,64,73,Government,Unknown,1,32.7725,86.4223
+2019,Africa,Nigeria,Facility Attack,Storm Seekers,1,0,1,Police,Chemical,1,5.906,13.4808
+2019,Europe,Turkey,Assassination,Desert Storm Faction,0,0,0,Religious,Firearms,0,51.807,35.7848
+2019,Middle East,Iraq,Bombing/Explosion,Northern Covenant,2,23,25,Government,Chemical,1,30.8615,48.9755
+2019,Africa,Mali,Armed Assault,Black Sun Collective,0,0,0,Civilians,Unknown,0,13.4165,26.9155
+2019,South Asia,Sri Lanka,Assassination,Eastern Resistance,2,1,3,Religious,Chemical,0,9.3884,84.0086
+2019,Southeast Asia,Philippines,Assassination,Iron Vanguard,0,0,0,Government,Explosives,1,21.8842,112.4253
+2019,Africa,Sudan,Unarmed Assault,Red Crescent Brigade,3,1,4,Police,Unknown,0,19.7974,28.6528
+2019,Central Asia,Kyrgyzstan,Hostage Taking,Crimson Path,0,0,0,Police,Chemical,0,42.2074,74.3673
+2019,Central Asia,Kyrgyzstan,Bombing/Explosion,Storm Seekers,15,10,25,Religious,Chemical,1,45.5949,76.1903
+2019,Central Asia,Tajikistan,Bombing/Explosion,Black Sun Collective,17,44,61,Religious,Chemical,1,43.3526,70.4927
+2019,Americas,Mexico,Bombing/Explosion,Desert Storm Faction,17,9,26,Business,Chemical,1,5.4255,-77.489
+2019,Americas,Mexico,Unarmed Assault,Northern Covenant,0,1,1,Government,Firearms,1,21.7837,-69.8231
+2019,Central Asia,Kazakhstan,Hostage Taking,Black Sun Collective,0,0,0,Business,Vehicle,1,43.5985,79.0629
+2019,Southeast Asia,Philippines,Hijacking,Black Sun Collective,1,0,1,Civilians,Vehicle,1,15.8841,108.7154
+2019,Southeast Asia,Indonesia,Bombing/Explosion,Grey Wolf Alliance,10,24,34,Business,Firearms,1,21.0315,116.732
+2019,South Asia,Nepal,Assassination,Grey Wolf Alliance,1,0,1,Military,Chemical,0,24.9049,89.5645
+2019,Southeast Asia,Philippines,Facility Attack,Unknown Cell,8,1,9,Religious,Melee,0,20.2533,123.8006
+2019,Middle East,Syria,Unarmed Assault,Free Sons Movement,3,6,9,Military,Chemical,1,28.4374,51.9283
+2019,Europe,Turkey,Hostage Taking,Crimson Path,1,1,2,Business,Chemical,1,45.2097,21.651
+2019,Europe,Turkey,Armed Assault,Grey Wolf Alliance,0,5,5,Police,Vehicle,1,51.0815,20.4158
+2019,Central Asia,Tajikistan,Bombing/Explosion,Liberation Front Alpha,16,13,29,Business,Unknown,0,45.6649,77.1085
+2019,Africa,Somalia,Bombing/Explosion,Frontier Guard,35,9,44,Government,Firearms,1,4.9668,14.7665
+2019,Central Asia,Kyrgyzstan,Bombing/Explosion,Crimson Path,6,8,14,Military,Explosives,1,46.3253,67.4637
+2020,Middle East,Lebanon,Facility Attack,Shadow Front,2,6,8,Civilians,Vehicle,1,35.7954,47.2893
+2020,Central Asia,Tajikistan,Armed Assault,Free Sons Movement,9,13,22,Civilians,Explosives,1,39.9333,74.1783
+2020,Middle East,Iraq,Armed Assault,Frontier Guard,13,26,39,Civilians,Explosives,1,27.6302,44.498
+2020,Central Asia,Kyrgyzstan,Armed Assault,Northern Covenant,13,0,13,Business,Vehicle,1,39.7719,74.4431
+2020,Europe,Kosovo,Assassination,Shadow Front,2,0,2,Police,Explosives,0,42.6461,21.995
+2020,Europe,Kosovo,Assassination,Red Crescent Brigade,0,3,3,Religious,Vehicle,1,48.5718,26.2256
+2020,Europe,Kosovo,Assassination,Silent Thunder,0,0,0,Police,Chemical,1,40.2335,34.9667
+2020,Southeast Asia,Indonesia,Unarmed Assault,Iron Vanguard,0,0,0,Government,Explosives,0,14.6122,122.9746
+2020,Middle East,Yemen,Unarmed Assault,Northern Covenant,7,0,7,Police,Unknown,1,24.8731,41.6628
+2020,South Asia,India,Unarmed Assault,Unknown Cell,0,2,2,Police,Melee,1,32.1959,72.8628
+2020,Middle East,Yemen,Armed Assault,Unknown Cell,3,29,32,Military,Explosives,1,26.6639,64.8872
+2020,Southeast Asia,Philippines,Bombing/Explosion,Northern Covenant,0,19,19,Business,Firearms,1,6.9145,117.5101
+2020,Southeast Asia,Thailand,Bombing/Explosion,Northern Covenant,20,72,92,Military,Vehicle,1,21.5994,106.2794
+2020,Europe,Ukraine,Unarmed Assault,Red Crescent Brigade,2,7,9,Business,Chemical,1,43.1752,16.2296
+2020,Africa,Nigeria,Bombing/Explosion,Black Sun Collective,1,13,14,Government,Vehicle,1,-3.925,36.1588
+2020,Africa,Nigeria,Bombing/Explosion,Grey Wolf Alliance,8,58,66,Civilians,Firearms,1,15.8,22.7475
+2020,South Asia,Bangladesh,Hostage Taking,Shadow Front,0,0,0,Military,Vehicle,1,12.4283,72.4796
+2020,Southeast Asia,Philippines,Facility Attack,Desert Storm Faction,1,0,1,Business,Chemical,1,8.1007,113.848
+2020,Europe,Russia,Assassination,Frontier Guard,0,10,10,Police,Melee,0,45.8957,33.2807
+2020,South Asia,Bangladesh,Facility Attack,Free Sons Movement,2,7,9,Business,Firearms,0,22.0234,89.0394
+2020,South Asia,Nepal,Armed Assault,Shadow Front,10,5,15,Police,Melee,1,27.5071,91.0344
+2020,Central Asia,Kyrgyzstan,Assassination,Iron Vanguard,0,0,0,Police,Unknown,0,42.0278,78.9066
+2020,Europe,Ukraine,Armed Assault,Red Crescent Brigade,3,12,15,Civilians,Vehicle,1,44.861,34.4971
+2020,Africa,Nigeria,Armed Assault,Storm Seekers,4,0,4,Government,Firearms,1,16.017,15.7744
+2020,Africa,Sudan,Bombing/Explosion,Liberation Front Alpha,13,68,81,Business,Vehicle,1,11.4889,10.4746
+2020,Europe,Ukraine,Assassination,Crimson Path,3,5,8,Military,Vehicle,1,48.7899,28.0709
+2020,Middle East,Pakistan,Bombing/Explosion,Shadow Front,28,10,38,Business,Chemical,1,29.9374,53.231
+2020,Americas,Honduras,Hostage Taking,Crimson Path,1,0,1,Business,Melee,1,17.4687,-76.4536
+2020,Central Asia,Kazakhstan,Unarmed Assault,Shadow Front,3,4,7,Business,Firearms,0,38.3779,69.9632
+2020,Southeast Asia,Myanmar,Assassination,Desert Storm Faction,0,4,4,Business,Chemical,1,17.2262,116.5025
+2020,Africa,Sudan,Bombing/Explosion,Storm Seekers,42,8,50,Civilians,Chemical,1,13.3856,26.3906
+2020,Southeast Asia,Philippines,Bombing/Explosion,Crimson Path,30,2,32,Civilians,Vehicle,1,13.6281,123.8729
+2020,Southeast Asia,Indonesia,Bombing/Explosion,Eastern Resistance,16,17,33,Military,Firearms,1,14.2475,108.4274
+2020,Americas,Mexico,Bombing/Explosion,Frontier Guard,14,70,84,Civilians,Chemical,1,12.609,-88.0502
+2020,Southeast Asia,Indonesia,Armed Assault,Frontier Guard,16,18,34,Police,Chemical,1,14.2136,120.7107
+2021,Europe,Russia,Facility Attack,Silent Thunder,1,18,19,Civilians,Firearms,1,46.9217,27.3477
+2021,Central Asia,Kyrgyzstan,Armed Assault,Storm Seekers,0,23,23,Military,Unknown,1,41.9859,67.7936
+2021,Africa,Nigeria,Assassination,Black Sun Collective,0,0,0,Police,Explosives,0,16.6947,34.1781
+2021,Southeast Asia,Thailand,Assassination,Unknown Cell,2,0,2,Business,Chemical,1,16.4412,100.0376
+2021,South Asia,Nepal,Facility Attack,Frontier Guard,1,2,3,Police,Melee,1,32.29,77.4362
+2021,South Asia,Sri Lanka,Armed Assault,Red Crescent Brigade,0,2,2,Religious,Chemical,1,24.5958,83.2148
+2021,Americas,Honduras,Facility Attack,Grey Wolf Alliance,0,4,4,Business,Vehicle,0,9.4439,-66.4849
+2021,Middle East,Afghanistan,Armed Assault,Grey Wolf Alliance,0,13,13,Government,Melee,1,32.8469,45.5085
+2021,Southeast Asia,Indonesia,Bombing/Explosion,Frontier Guard,4,77,81,Military,Melee,1,21.4667,100.1557
+2021,Central Asia,Kyrgyzstan,Bombing/Explosion,Free Sons Movement,36,9,45,Business,Chemical,1,44.8644,66.5333
+2021,Middle East,Pakistan,Hostage Taking,Desert Storm Faction,1,2,3,Police,Melee,1,36.3712,50.1993
+2021,Central Asia,Kyrgyzstan,Armed Assault,Free Sons Movement,34,10,44,Government,Chemical,1,42.8777,75.2015
+2021,South Asia,India,Bombing/Explosion,Free Sons Movement,1,28,29,Business,Unknown,1,30.8215,89.4528
+2021,Middle East,Iraq,Unarmed Assault,Silent Thunder,2,4,6,Government,Chemical,1,24.6096,51.1247
+2021,Americas,Mexico,Bombing/Explosion,Iron Vanguard,6,53,59,Government,Explosives,1,12.2845,-80.1367
+2021,Africa,Mozambique,Bombing/Explosion,Frontier Guard,57,6,63,Military,Melee,1,0.4149,15.5523
+2021,Central Asia,Tajikistan,Armed Assault,Liberation Front Alpha,0,2,2,Civilians,Chemical,1,45.988,71.7099
+2021,Middle East,Pakistan,Bombing/Explosion,Crimson Path,30,30,60,Civilians,Firearms,1,32.3631,39.164
+2021,Middle East,Afghanistan,Bombing/Explosion,Frontier Guard,18,13,31,Business,Vehicle,1,36.3237,39.5384
+2021,Europe,Turkey,Bombing/Explosion,Liberation Front Alpha,15,9,24,Military,Unknown,0,49.0932,15.1682
+2021,South Asia,Nepal,Armed Assault,Crimson Path,5,18,23,Police,Firearms,0,22.4926,89.9094
+2021,Europe,Ukraine,Unarmed Assault,Eastern Resistance,11,12,23,Government,Chemical,1,49.5075,26.2445
+2021,Africa,Sudan,Bombing/Explosion,Storm Seekers,48,13,61,Government,Unknown,1,3.4321,33.7057
+2021,Americas,Peru,Hostage Taking,Silent Thunder,0,1,1,Business,Vehicle,0,20.932,-82.0668
+2021,Africa,Sudan,Armed Assault,Crimson Path,20,1,21,Religious,Melee,0,17.7622,40.9643
+2021,Europe,Bosnia,Bombing/Explosion,Liberation Front Alpha,6,4,10,Religious,Explosives,0,40.5145,35.0405
+2021,South Asia,Sri Lanka,Bombing/Explosion,Free Sons Movement,17,9,26,Civilians,Firearms,1,30.8117,89.194
+2021,Central Asia,Tajikistan,Facility Attack,Grey Wolf Alliance,1,0,1,Military,Explosives,1,41.2398,72.2079
+2021,Southeast Asia,Indonesia,Assassination,Grey Wolf Alliance,0,5,5,Business,Firearms,0,9.8265,103.5309
+2021,Americas,El Salvador,Armed Assault,Free Sons Movement,2,14,16,Religious,Chemical,0,14.8126,-77.5104
+2021,South Asia,Bangladesh,Armed Assault,Black Sun Collective,7,23,30,Military,Unknown,0,26.7034,75.024
+2021,Southeast Asia,Philippines,Bombing/Explosion,Desert Storm Faction,2,102,104,Military,Chemical,0,16.9626,122.5772
+2021,Middle East,Pakistan,Bombing/Explosion,Red Crescent Brigade,15,145,160,Military,Firearms,1,34.5005,39.07
+2021,Central Asia,Kazakhstan,Bombing/Explosion,Desert Storm Faction,43,6,49,Business,Chemical,1,46.4117,65.1063
+2021,Middle East,Iraq,Armed Assault,Eastern Resistance,0,3,3,Military,Explosives,0,30.7547,48.0457
+2021,South Asia,Bangladesh,Armed Assault,Iron Vanguard,5,2,7,Religious,Chemical,1,20.2632,80.4484
+2021,Europe,Russia,Facility Attack,Liberation Front Alpha,0,4,4,Business,Melee,1,43.8502,33.6707
+2021,Southeast Asia,Thailand,Armed Assault,Red Crescent Brigade,0,1,1,Business,Vehicle,1,14.7107,95.9808
+2021,Middle East,Pakistan,Facility Attack,Northern Covenant,2,0,2,Religious,Unknown,0,28.9714,55.0727
+2021,Middle East,Yemen,Bombing/Explosion,Red Crescent Brigade,9,17,26,Civilians,Firearms,1,36.4846,54.7172
+2021,Europe,Russia,Bombing/Explosion,Red Crescent Brigade,10,54,64,Civilians,Unknown,1,51.1095,31.3849
+2021,Africa,Sudan,Bombing/Explosion,Black Sun Collective,13,17,30,Military,Chemical,0,17.741,16.8512
+2021,Middle East,Lebanon,Armed Assault,Northern Covenant,4,20,24,Business,Melee,1,31.6073,54.5704
+2021,Americas,Mexico,Bombing/Explosion,Crimson Path,40,51,91,Business,Firearms,1,12.2738,-65.8962
+2021,Central Asia,Kyrgyzstan,Bombing/Explosion,Silent Thunder,20,3,23,Religious,Chemical,0,40.6678,66.8323
+2021,Europe,Kosovo,Bombing/Explosion,Desert Storm Faction,5,1,6,Government,Vehicle,1,51.3028,29.2761
+2021,Americas,El Salvador,Assassination,Free Sons Movement,5,3,8,Business,Unknown,1,22.8654,-74.9098
+2021,Europe,Ukraine,Bombing/Explosion,Storm Seekers,24,10,34,Business,Firearms,1,41.9451,23.2777
+2021,Europe,Turkey,Unarmed Assault,Liberation Front Alpha,5,1,6,Military,Unknown,1,45.8839,37.3846
+2021,Americas,Honduras,Unarmed Assault,Crimson Path,0,2,2,Civilians,Chemical,1,7.9848,-69.692
+2021,South Asia,Nepal,Armed Assault,Unknown Cell,6,7,13,Civilians,Unknown,0,22.2475,72.1584
+2022,Central Asia,Kyrgyzstan,Armed Assault,Frontier Guard,15,1,16,Police,Unknown,0,43.1862,72.5887
+2022,Africa,Mali,Assassination,Red Crescent Brigade,1,2,3,Military,Unknown,0,4.3048,26.4587
+2022,Southeast Asia,Indonesia,Unarmed Assault,Unknown Cell,0,7,7,Police,Explosives,1,9.7282,104.0631
+2022,Southeast Asia,Philippines,Facility Attack,Free Sons Movement,6,9,15,Military,Chemical,1,12.8237,105.4066
+2022,South Asia,India,Bombing/Explosion,Frontier Guard,37,34,71,Religious,Firearms,1,12.3545,90.2447
+2022,Africa,Nigeria,Bombing/Explosion,Northern Covenant,4,33,37,Civilians,Firearms,1,11.3439,33.5175
+2022,Americas,Mexico,Unarmed Assault,Frontier Guard,1,1,2,Police,Chemical,1,14.4019,-84.7396
+2022,Middle East,Pakistan,Hijacking,Iron Vanguard,0,2,2,Military,Firearms,1,32.2328,57.2209
+2022,South Asia,India,Facility Attack,Red Crescent Brigade,6,2,8,Civilians,Unknown,0,18.6629,86.0638
+2022,Middle East,Pakistan,Hostage Taking,Red Crescent Brigade,1,3,4,Military,Unknown,1,25.4652,47.6782
+2022,Middle East,Iraq,Assassination,Unknown Cell,0,0,0,Business,Explosives,1,33.399,55.1898
+2022,Central Asia,Tajikistan,Unarmed Assault,Desert Storm Faction,4,1,5,Business,Firearms,0,45.4677,68.2113
+2022,South Asia,Bangladesh,Armed Assault,Unknown Cell,7,1,8,Religious,Firearms,1,25.1688,78.9282
+2022,Central Asia,Tajikistan,Hostage Taking,Iron Vanguard,0,2,2,Government,Explosives,1,45.85,67.6421
+2022,Middle East,Pakistan,Assassination,Frontier Guard,2,5,7,Religious,Unknown,1,35.9851,60.9355
+2022,Africa,Sudan,Bombing/Explosion,Northern Covenant,37,40,77,Religious,Melee,1,-4.5721,36.3436
+2022,Central Asia,Tajikistan,Hijacking,Silent Thunder,1,0,1,Religious,Melee,0,46.3965,65.9903
+2022,Southeast Asia,Philippines,Facility Attack,Crimson Path,3,0,3,Religious,Firearms,1,14.6708,105.3572
+2022,Americas,El Salvador,Facility Attack,Northern Covenant,8,2,10,Police,Explosives,1,14.0747,-86.453
+2022,Africa,DRC,Armed Assault,Shadow Front,6,3,9,Government,Vehicle,1,18.1005,16.7844
+2022,Middle East,Lebanon,Hostage Taking,Iron Vanguard,1,3,4,Government,Explosives,1,30.2641,37.5606
+2022,Americas,Mexico,Armed Assault,Shadow Front,4,23,27,Police,Chemical,1,6.2062,-75.0233
+2022,Southeast Asia,Philippines,Armed Assault,Desert Storm Faction,2,9,11,Business,Chemical,1,8.8794,98.7945
+2022,Southeast Asia,Philippines,Armed Assault,Storm Seekers,15,4,19,Religious,Melee,0,7.6962,121.3576
+2022,Middle East,Syria,Hostage Taking,Liberation Front Alpha,3,0,3,Police,Melee,1,24.7624,36.4889
+2022,Europe,Turkey,Unarmed Assault,Frontier Guard,0,10,10,Civilians,Unknown,1,45.0783,34.671
+2022,Africa,Mozambique,Assassination,Northern Covenant,0,14,14,Government,Melee,1,5.6293,15.5194
+2022,Europe,Ukraine,Bombing/Explosion,Shadow Front,54,3,57,Civilians,Melee,1,40.0328,16.1031
+2022,Central Asia,Kyrgyzstan,Bombing/Explosion,Grey Wolf Alliance,13,5,18,Military,Firearms,1,47.1147,76.8879
+2022,Middle East,Yemen,Armed Assault,Shadow Front,4,0,4,Business,Explosives,1,29.5095,37.2361
+2022,Middle East,Lebanon,Assassination,Iron Vanguard,0,1,1,Government,Vehicle,1,31.7057,61.1845
+2022,Southeast Asia,Philippines,Armed Assault,Shadow Front,4,45,49,Police,Firearms,1,11.946,98.05
+2022,Southeast Asia,Myanmar,Armed Assault,Desert Storm Faction,13,16,29,Police,Explosives,0,9.8913,124.0991
+2022,Africa,Mali,Facility Attack,Black Sun Collective,3,13,16,Military,Firearms,1,-0.0862,10.5577
+2022,Africa,DRC,Armed Assault,Iron Vanguard,3,14,17,Business,Unknown,1,1.344,10.9499
+2022,Middle East,Afghanistan,Bombing/Explosion,Red Crescent Brigade,91,10,101,Police,Unknown,1,34.1011,53.6019
+2022,Africa,Ethiopia,Unarmed Assault,Grey Wolf Alliance,3,8,11,Military,Vehicle,0,-3.0267,28.7247
+2022,Central Asia,Kazakhstan,Assassination,Black Sun Collective,4,3,7,Police,Vehicle,1,38.5758,68.9901
+2022,Middle East,Afghanistan,Hijacking,Shadow Front,0,0,0,Police,Unknown,0,33.8162,59.058
+2022,Americas,El Salvador,Assassination,Desert Storm Faction,0,4,4,Business,Explosives,0,5.747,-71.2744
+2022,South Asia,India,Facility Attack,Desert Storm Faction,0,14,14,Business,Chemical,1,30.3059,83.1458
+2022,Middle East,Afghanistan,Bombing/Explosion,Frontier Guard,2,5,7,Business,Unknown,1,34.1979,37.2266
+2022,Americas,Colombia,Facility Attack,Unknown Cell,3,10,13,Police,Melee,1,16.9587,-77.5774
+2023,Americas,El Salvador,Assassination,Iron Vanguard,0,1,1,Police,Unknown,1,14.265,-79.0246
+2023,Europe,Turkey,Assassination,Red Crescent Brigade,1,0,1,Military,Melee,1,50.8969,38.8863
+2023,Europe,Bosnia,Unarmed Assault,Red Crescent Brigade,0,8,8,Government,Vehicle,1,43.1941,20.8325
+2023,Europe,Russia,Bombing/Explosion,Frontier Guard,12,0,12,Business,Unknown,0,48.0368,29.878
+2023,Middle East,Pakistan,Armed Assault,Unknown Cell,12,47,59,Police,Explosives,1,34.6931,43.6593
+2023,Central Asia,Kyrgyzstan,Bombing/Explosion,Grey Wolf Alliance,16,18,34,Military,Firearms,1,43.1557,77.2972
+2023,Middle East,Iraq,Armed Assault,Storm Seekers,16,36,52,Religious,Firearms,1,32.5704,54.2939
+2023,Africa,Somalia,Facility Attack,Storm Seekers,7,4,11,Religious,Chemical,0,14.9796,17.5267
+2023,Central Asia,Kyrgyzstan,Assassination,Unknown Cell,1,3,4,Military,Chemical,1,47.9305,73.7707
+2023,Middle East,Iraq,Hijacking,Desert Storm Faction,0,0,0,Religious,Explosives,0,30.9875,54.1529
+2023,Americas,Colombia,Facility Attack,Desert Storm Faction,8,7,15,Business,Explosives,0,23.5615,-67.6459
+2023,South Asia,Sri Lanka,Hostage Taking,Silent Thunder,0,1,1,Military,Vehicle,0,30.9695,80.5267
+2023,Americas,El Salvador,Hijacking,Crimson Path,0,0,0,Civilians,Melee,1,5.2307,-85.6856
+2023,Africa,Nigeria,Armed Assault,Free Sons Movement,12,2,14,Military,Melee,1,-2.6576,36.963
+2023,Europe,Turkey,Bombing/Explosion,Unknown Cell,3,81,84,Military,Chemical,1,49.1753,31.6996
+2023,Americas,El Salvador,Assassination,Grey Wolf Alliance,0,0,0,Business,Chemical,1,8.307,-73.2397
+2023,South Asia,Bangladesh,Hostage Taking,Eastern Resistance,3,1,4,Religious,Vehicle,1,33.9753,90.3252
+2023,Southeast Asia,Philippines,Bombing/Explosion,Crimson Path,21,51,72,Civilians,Chemical,1,17.1275,102.7595
+2023,Central Asia,Kyrgyzstan,Armed Assault,Northern Covenant,0,14,14,Military,Melee,1,42.9436,73.2777
+2023,Europe,Bosnia,Assassination,Liberation Front Alpha,1,5,6,Civilians,Unknown,1,42.6896,33.0716
+2023,Central Asia,Tajikistan,Assassination,Shadow Front,1,2,3,Business,Unknown,0,41.9816,69.3927
+2023,Europe,Bosnia,Facility Attack,Frontier Guard,3,4,7,Police,Vehicle,1,42.9839,21.6208
+2023,Middle East,Afghanistan,Armed Assault,Liberation Front Alpha,11,11,22,Civilians,Melee,1,29.7713,40.4355
+2023,Europe,Russia,Bombing/Explosion,Desert Storm Faction,18,16,34,Business,Melee,1,42.9179,30.7579
+2023,Americas,Mexico,Bombing/Explosion,Black Sun Collective,13,36,49,Business,Chemical,0,20.5733,-83.352
+2023,Southeast Asia,Myanmar,Assassination,Crimson Path,3,3,6,Business,Vehicle,1,9.395,109.3857
+2023,Europe,Turkey,Assassination,Iron Vanguard,5,5,10,Military,Vehicle,1,49.9962,17.2295
+2023,Central Asia,Kazakhstan,Assassination,Storm Seekers,1,3,4,Military,Unknown,1,44.6118,79.807
+2023,Central Asia,Kazakhstan,Hostage Taking,Shadow Front,2,1,3,Government,Explosives,1,42.7511,71.1145
+2023,South Asia,Sri Lanka,Bombing/Explosion,Crimson Path,31,31,62,Religious,Melee,1,21.2871,77.6146
+2023,Middle East,Syria,Armed Assault,Frontier Guard,6,3,9,Civilians,Melee,0,30.4427,43.6033
+2023,Europe,Bosnia,Assassination,Black Sun Collective,1,10,11,Police,Firearms,0,43.2832,34.6924
+2023,Central Asia,Kazakhstan,Armed Assault,Crimson Path,8,9,17,Business,Unknown,1,47.1155,76.2128
+2023,South Asia,Nepal,Assassination,Unknown Cell,5,2,7,Religious,Chemical,0,24.3927,81.1209
+2023,Middle East,Yemen,Armed Assault,Black Sun Collective,5,17,22,Business,Chemical,1,27.5295,48.8427
+2023,Central Asia,Kazakhstan,Facility Attack,Desert Storm Faction,6,1,7,Business,Melee,1,47.1912,74.3989
+2023,Europe,Turkey,Assassination,Black Sun Collective,1,1,2,Religious,Chemical,0,42.9877,39.3814
+2023,Americas,Honduras,Armed Assault,Iron Vanguard,3,8,11,Government,Chemical,1,11.247,-67.6869
+2023,Africa,Libya,Hijacking,Frontier Guard,0,0,0,Religious,Unknown,1,-1.8971,14.3126
+2023,South Asia,India,Facility Attack,Unknown Cell,2,0,2,Religious,Vehicle,0,14.4063,90.29
+2023,Middle East,Afghanistan,Bombing/Explosion,Free Sons Movement,15,51,66,Business,Vehicle,1,32.876,37.7941
+2023,Americas,Honduras,Facility Attack,Storm Seekers,6,3,9,Military,Firearms,1,9.9711,-65.6034
+2023,Middle East,Pakistan,Assassination,Shadow Front,0,0,0,Civilians,Melee,1,24.7255,50.0797
+2023,Americas,Honduras,Armed Assault,Shadow Front,6,2,8,Government,Firearms,1,24.4255,-83.7446
+2023,Europe,Kosovo,Assassination,Black Sun Collective,1,0,1,Police,Melee,0,48.8867,28.9188
+2023,Europe,Kosovo,Bombing/Explosion,Desert Storm Faction,34,13,47,Government,Vehicle,1,40.1723,34.7626
+2023,Europe,Bosnia,Armed Assault,Crimson Path,2,20,22,Government,Vehicle,1,50.7096,29.2803
+2023,Central Asia,Tajikistan,Hijacking,Red Crescent Brigade,0,0,0,Military,Firearms,0,46.0526,65.4334
+2023,Central Asia,Tajikistan,Bombing/Explosion,Red Crescent Brigade,15,23,38,Police,Vehicle,0,45.8328,77.8143
+2023,Africa,Libya,Bombing/Explosion,Unknown Cell,22,7,29,Civilians,Vehicle,1,10.0913,21.1048
+2023,Middle East,Lebanon,Unarmed Assault,Desert Storm Faction,1,1,2,Military,Vehicle,1,26.4276,41.0723
+2023,Central Asia,Tajikistan,Armed Assault,Crimson Path,0,25,25,Government,Vehicle,1,42.7395,71.0185
+2023,Americas,Colombia,Armed Assault,Iron Vanguard,10,4,14,Government,Explosives,1,10.6186,-65.4127
+2023,Central Asia,Kyrgyzstan,Facility Attack,Shadow Front,4,1,5,Civilians,Melee,1,43.1707,70.8237
